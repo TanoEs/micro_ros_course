@@ -1,0 +1,51 @@
+[1.664s] Invoking command in '/home/user/microros_ws/firmware/dev_ws/ament/ament_lint/ament_lint_cmake': AMENT_PREFIX_PATH=/home/user/microros_ws/firmware/dev_ws/install/ament_copyright:/home/user/microros_ws/firmware/dev_ws/install/ament_pep257:/home/user/microros_ws/firmware/dev_ws/install/ament_flake8:/home/user/microros_ws/firmware/dev_ws/install/ament_lint PATH=/home/user/microros_ws/firmware/dev_ws/install/ament_copyright/bin:/home/user/microros_ws/firmware/dev_ws/install/ament_pep257/bin:/home/user/microros_ws/firmware/dev_ws/install/ament_flake8/bin:${PATH} PYTHONPATH=/home/user/microros_ws/firmware/dev_ws/build/ament_lint_cmake/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/microros_ws/firmware/dev_ws/install/ament_lint_cmake/lib/python3.10/site-packages:/home/user/microros_ws/firmware/dev_ws/install/ament_copyright/lib/python3.10/site-packages:/home/user/microros_ws/firmware/dev_ws/install/ament_pep257/lib/python3.10/site-packages:/home/user/microros_ws/firmware/dev_ws/install/ament_flake8/lib/python3.10/site-packages:/home/user/microros_ws/firmware/dev_ws/install/ament_lint/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/ament_lint_cmake build --build-base /home/user/microros_ws/firmware/dev_ws/build/ament_lint_cmake/build install --record /home/user/microros_ws/firmware/dev_ws/build/ament_lint_cmake/install.log --single-version-externally-managed install_data
+[1.900s] /usr/local/lib/python3.10/dist-packages/setuptools/_distutils/dist.py:289: UserWarning: Unknown distribution option: 'tests_require'
+[1.900s]   warnings.warn(msg)
+[1.943s] /usr/local/lib/python3.10/dist-packages/setuptools/dist.py:759: SetuptoolsDeprecationWarning: License classifiers are deprecated.
+[1.943s] !!
+[1.943s] 
+[1.943s]         ********************************************************************************
+[1.943s]         Please consider removing the following classifiers in favor of a SPDX license expression:
+[1.943s] 
+[1.944s]         License :: OSI Approved :: Apache Software License
+[1.944s] 
+[1.944s]         See https://packaging.python.org/en/latest/guides/writing-pyproject-toml/#license for details.
+[1.944s]         ********************************************************************************
+[1.944s] 
+[1.944s] !!
+[1.944s]   self._finalize_license_expression()
+[2.028s] running egg_info
+[2.049s] creating ../../../build/ament_lint_cmake/ament_lint_cmake.egg-info
+[2.049s] writing ../../../build/ament_lint_cmake/ament_lint_cmake.egg-info/PKG-INFO
+[2.050s] writing dependency_links to ../../../build/ament_lint_cmake/ament_lint_cmake.egg-info/dependency_links.txt
+[2.050s] writing entry points to ../../../build/ament_lint_cmake/ament_lint_cmake.egg-info/entry_points.txt
+[2.050s] writing requirements to ../../../build/ament_lint_cmake/ament_lint_cmake.egg-info/requires.txt
+[2.050s] writing top-level names to ../../../build/ament_lint_cmake/ament_lint_cmake.egg-info/top_level.txt
+[2.051s] writing manifest file '../../../build/ament_lint_cmake/ament_lint_cmake.egg-info/SOURCES.txt'
+[2.095s] reading manifest file '../../../build/ament_lint_cmake/ament_lint_cmake.egg-info/SOURCES.txt'
+[2.097s] writing manifest file '../../../build/ament_lint_cmake/ament_lint_cmake.egg-info/SOURCES.txt'
+[2.097s] running build
+[2.097s] running build_py
+[2.097s] creating /home/user/microros_ws/firmware/dev_ws/build/ament_lint_cmake/build/lib/ament_lint_cmake
+[2.097s] copying ament_lint_cmake/__init__.py -> /home/user/microros_ws/firmware/dev_ws/build/ament_lint_cmake/build/lib/ament_lint_cmake
+[2.098s] copying ament_lint_cmake/main.py -> /home/user/microros_ws/firmware/dev_ws/build/ament_lint_cmake/build/lib/ament_lint_cmake
+[2.098s] copying ament_lint_cmake/cmakelint.py -> /home/user/microros_ws/firmware/dev_ws/build/ament_lint_cmake/build/lib/ament_lint_cmake
+[2.099s] running install
+[2.106s] running install_lib
+[2.127s] creating /home/user/microros_ws/firmware/dev_ws/install/ament_lint_cmake/lib/python3.10/site-packages/ament_lint_cmake
+[2.127s] copying /home/user/microros_ws/firmware/dev_ws/build/ament_lint_cmake/build/lib/ament_lint_cmake/__init__.py -> /home/user/microros_ws/firmware/dev_ws/install/ament_lint_cmake/lib/python3.10/site-packages/ament_lint_cmake
+[2.127s] copying /home/user/microros_ws/firmware/dev_ws/build/ament_lint_cmake/build/lib/ament_lint_cmake/main.py -> /home/user/microros_ws/firmware/dev_ws/install/ament_lint_cmake/lib/python3.10/site-packages/ament_lint_cmake
+[2.128s] copying /home/user/microros_ws/firmware/dev_ws/build/ament_lint_cmake/build/lib/ament_lint_cmake/cmakelint.py -> /home/user/microros_ws/firmware/dev_ws/install/ament_lint_cmake/lib/python3.10/site-packages/ament_lint_cmake
+[2.129s] byte-compiling /home/user/microros_ws/firmware/dev_ws/install/ament_lint_cmake/lib/python3.10/site-packages/ament_lint_cmake/__init__.py to __init__.cpython-310.pyc
+[2.129s] byte-compiling /home/user/microros_ws/firmware/dev_ws/install/ament_lint_cmake/lib/python3.10/site-packages/ament_lint_cmake/main.py to main.cpython-310.pyc
+[2.131s] byte-compiling /home/user/microros_ws/firmware/dev_ws/install/ament_lint_cmake/lib/python3.10/site-packages/ament_lint_cmake/cmakelint.py to cmakelint.cpython-310.pyc
+[2.135s] running install_data
+[2.136s] copying package.xml -> /home/user/microros_ws/firmware/dev_ws/install/ament_lint_cmake/share/ament_lint_cmake
+[2.136s] creating /home/user/microros_ws/firmware/dev_ws/install/ament_lint_cmake/share/ament_index/resource_index/packages
+[2.137s] copying resource/ament_lint_cmake -> /home/user/microros_ws/firmware/dev_ws/install/ament_lint_cmake/share/ament_index/resource_index/packages
+[2.137s] running install_egg_info
+[2.159s] Copying ../../../build/ament_lint_cmake/ament_lint_cmake.egg-info to /home/user/microros_ws/firmware/dev_ws/install/ament_lint_cmake/lib/python3.10/site-packages/ament_lint_cmake-0.12.12-py3.10.egg-info
+[2.162s] running install_scripts
+[2.336s] Installing ament_lint_cmake script to /home/user/microros_ws/firmware/dev_ws/install/ament_lint_cmake/bin
+[2.337s] writing list of installed files to '/home/user/microros_ws/firmware/dev_ws/build/ament_lint_cmake/install.log'
+[2.405s] Invoked command in '/home/user/microros_ws/firmware/dev_ws/ament/ament_lint/ament_lint_cmake' returned '0': AMENT_PREFIX_PATH=/home/user/microros_ws/firmware/dev_ws/install/ament_copyright:/home/user/microros_ws/firmware/dev_ws/install/ament_pep257:/home/user/microros_ws/firmware/dev_ws/install/ament_flake8:/home/user/microros_ws/firmware/dev_ws/install/ament_lint PATH=/home/user/microros_ws/firmware/dev_ws/install/ament_copyright/bin:/home/user/microros_ws/firmware/dev_ws/install/ament_pep257/bin:/home/user/microros_ws/firmware/dev_ws/install/ament_flake8/bin:${PATH} PYTHONPATH=/home/user/microros_ws/firmware/dev_ws/build/ament_lint_cmake/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/microros_ws/firmware/dev_ws/install/ament_lint_cmake/lib/python3.10/site-packages:/home/user/microros_ws/firmware/dev_ws/install/ament_copyright/lib/python3.10/site-packages:/home/user/microros_ws/firmware/dev_ws/install/ament_pep257/lib/python3.10/site-packages:/home/user/microros_ws/firmware/dev_ws/install/ament_flake8/lib/python3.10/site-packages:/home/user/microros_ws/firmware/dev_ws/install/ament_lint/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/ament_lint_cmake build --build-base /home/user/microros_ws/firmware/dev_ws/build/ament_lint_cmake/build install --record /home/user/microros_ws/firmware/dev_ws/build/ament_lint_cmake/install.log --single-version-externally-managed install_data

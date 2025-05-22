@@ -1,0 +1,46 @@
+[1.042s] Invoking command in '/home/user/microros_ws/firmware/dev_ws/ros2/ament_cmake_ros/domain_coordinator': AMENT_PREFIX_PATH=/home/user/microros_ws/firmware/dev_ws/install/ament_copyright:/home/user/microros_ws/firmware/dev_ws/install/ament_pep257:/home/user/microros_ws/firmware/dev_ws/install/ament_flake8:/home/user/microros_ws/firmware/dev_ws/install/ament_lint PATH=/home/user/microros_ws/firmware/dev_ws/install/ament_copyright/bin:/home/user/microros_ws/firmware/dev_ws/install/ament_pep257/bin:/home/user/microros_ws/firmware/dev_ws/install/ament_flake8/bin:${PATH} PYTHONPATH=/home/user/microros_ws/firmware/dev_ws/build/domain_coordinator/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/microros_ws/firmware/dev_ws/install/domain_coordinator/lib/python3.10/site-packages:/home/user/microros_ws/firmware/dev_ws/install/ament_copyright/lib/python3.10/site-packages:/home/user/microros_ws/firmware/dev_ws/install/ament_pep257/lib/python3.10/site-packages:/home/user/microros_ws/firmware/dev_ws/install/ament_flake8/lib/python3.10/site-packages:/home/user/microros_ws/firmware/dev_ws/install/ament_lint/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/domain_coordinator build --build-base /home/user/microros_ws/firmware/dev_ws/build/domain_coordinator/build install --record /home/user/microros_ws/firmware/dev_ws/build/domain_coordinator/install.log --single-version-externally-managed install_data
+[1.213s] /usr/local/lib/python3.10/dist-packages/setuptools/_distutils/dist.py:289: UserWarning: Unknown distribution option: 'tests_require'
+[1.213s]   warnings.warn(msg)
+[1.251s] /usr/local/lib/python3.10/dist-packages/setuptools/dist.py:759: SetuptoolsDeprecationWarning: License classifiers are deprecated.
+[1.251s] !!
+[1.251s] 
+[1.251s]         ********************************************************************************
+[1.251s]         Please consider removing the following classifiers in favor of a SPDX license expression:
+[1.251s] 
+[1.252s]         License :: OSI Approved :: Apache Software License
+[1.252s] 
+[1.252s]         See https://packaging.python.org/en/latest/guides/writing-pyproject-toml/#license for details.
+[1.252s]         ********************************************************************************
+[1.252s] 
+[1.252s] !!
+[1.252s]   self._finalize_license_expression()
+[1.336s] running egg_info
+[1.355s] creating ../../../build/domain_coordinator/domain_coordinator.egg-info
+[1.356s] writing ../../../build/domain_coordinator/domain_coordinator.egg-info/PKG-INFO
+[1.356s] writing dependency_links to ../../../build/domain_coordinator/domain_coordinator.egg-info/dependency_links.txt
+[1.356s] writing requirements to ../../../build/domain_coordinator/domain_coordinator.egg-info/requires.txt
+[1.357s] writing top-level names to ../../../build/domain_coordinator/domain_coordinator.egg-info/top_level.txt
+[1.357s] writing manifest file '../../../build/domain_coordinator/domain_coordinator.egg-info/SOURCES.txt'
+[1.388s] reading manifest file '../../../build/domain_coordinator/domain_coordinator.egg-info/SOURCES.txt'
+[1.389s] writing manifest file '../../../build/domain_coordinator/domain_coordinator.egg-info/SOURCES.txt'
+[1.389s] running build
+[1.389s] running build_py
+[1.389s] creating /home/user/microros_ws/firmware/dev_ws/build/domain_coordinator/build/lib/domain_coordinator
+[1.389s] copying domain_coordinator/__init__.py -> /home/user/microros_ws/firmware/dev_ws/build/domain_coordinator/build/lib/domain_coordinator
+[1.390s] copying domain_coordinator/impl.py -> /home/user/microros_ws/firmware/dev_ws/build/domain_coordinator/build/lib/domain_coordinator
+[1.390s] running install
+[1.394s] running install_lib
+[1.407s] creating /home/user/microros_ws/firmware/dev_ws/install/domain_coordinator/lib/python3.10/site-packages/domain_coordinator
+[1.407s] copying /home/user/microros_ws/firmware/dev_ws/build/domain_coordinator/build/lib/domain_coordinator/__init__.py -> /home/user/microros_ws/firmware/dev_ws/install/domain_coordinator/lib/python3.10/site-packages/domain_coordinator
+[1.407s] copying /home/user/microros_ws/firmware/dev_ws/build/domain_coordinator/build/lib/domain_coordinator/impl.py -> /home/user/microros_ws/firmware/dev_ws/install/domain_coordinator/lib/python3.10/site-packages/domain_coordinator
+[1.408s] byte-compiling /home/user/microros_ws/firmware/dev_ws/install/domain_coordinator/lib/python3.10/site-packages/domain_coordinator/__init__.py to __init__.cpython-310.pyc
+[1.408s] byte-compiling /home/user/microros_ws/firmware/dev_ws/install/domain_coordinator/lib/python3.10/site-packages/domain_coordinator/impl.py to impl.cpython-310.pyc
+[1.408s] running install_data
+[1.408s] copying package.xml -> /home/user/microros_ws/firmware/dev_ws/install/domain_coordinator/share/domain_coordinator
+[1.409s] creating /home/user/microros_ws/firmware/dev_ws/install/domain_coordinator/share/ament_index/resource_index/packages
+[1.409s] copying resource/domain_coordinator -> /home/user/microros_ws/firmware/dev_ws/install/domain_coordinator/share/ament_index/resource_index/packages
+[1.409s] running install_egg_info
+[1.422s] Copying ../../../build/domain_coordinator/domain_coordinator.egg-info to /home/user/microros_ws/firmware/dev_ws/install/domain_coordinator/lib/python3.10/site-packages/domain_coordinator-0.10.0-py3.10.egg-info
+[1.423s] running install_scripts
+[1.541s] writing list of installed files to '/home/user/microros_ws/firmware/dev_ws/build/domain_coordinator/install.log'
+[1.587s] Invoked command in '/home/user/microros_ws/firmware/dev_ws/ros2/ament_cmake_ros/domain_coordinator' returned '0': AMENT_PREFIX_PATH=/home/user/microros_ws/firmware/dev_ws/install/ament_copyright:/home/user/microros_ws/firmware/dev_ws/install/ament_pep257:/home/user/microros_ws/firmware/dev_ws/install/ament_flake8:/home/user/microros_ws/firmware/dev_ws/install/ament_lint PATH=/home/user/microros_ws/firmware/dev_ws/install/ament_copyright/bin:/home/user/microros_ws/firmware/dev_ws/install/ament_pep257/bin:/home/user/microros_ws/firmware/dev_ws/install/ament_flake8/bin:${PATH} PYTHONPATH=/home/user/microros_ws/firmware/dev_ws/build/domain_coordinator/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/microros_ws/firmware/dev_ws/install/domain_coordinator/lib/python3.10/site-packages:/home/user/microros_ws/firmware/dev_ws/install/ament_copyright/lib/python3.10/site-packages:/home/user/microros_ws/firmware/dev_ws/install/ament_pep257/lib/python3.10/site-packages:/home/user/microros_ws/firmware/dev_ws/install/ament_flake8/lib/python3.10/site-packages:/home/user/microros_ws/firmware/dev_ws/install/ament_lint/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/domain_coordinator build --build-base /home/user/microros_ws/firmware/dev_ws/build/domain_coordinator/build install --record /home/user/microros_ws/firmware/dev_ws/build/domain_coordinator/install.log --single-version-externally-managed install_data

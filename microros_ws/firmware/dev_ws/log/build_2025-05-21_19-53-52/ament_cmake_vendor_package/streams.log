@@ -1,0 +1,165 @@
+[0.027s] Invoking command in '/home/user/microros_ws/firmware/dev_ws/build/ament_cmake_vendor_package': AMENT_PREFIX_PATH=/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_test:/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_export_dependencies:/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_python:/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_libraries:/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_core:/home/user/microros_ws/firmware/dev_ws/install/ament_package CMAKE_PREFIX_PATH=/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_test:/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_export_dependencies:/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_python:/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_libraries:/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_core PYTHONPATH=/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_test/local/lib/python3.10/dist-packages:/home/user/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/cmake /home/user/microros_ws/firmware/dev_ws/ament/ament_cmake/ament_cmake_vendor_package -DCMAKE_INSTALL_PREFIX=/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_vendor_package
+[0.072s] -- Found ament_cmake_core: 1.3.11 (/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_core/share/ament_cmake_core/cmake)
+[0.733s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.834s] -- Found ament_cmake_export_dependencies: 1.3.11 (/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_export_dependencies/share/ament_cmake_export_dependencies/cmake)
+[0.982s] -- The C compiler identification is GNU 11.4.0
+[1.062s] -- The CXX compiler identification is GNU 11.4.0
+[1.069s] -- Detecting C compiler ABI info
+[1.153s] -- Detecting C compiler ABI info - done
+[1.165s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.166s] -- Detecting C compile features
+[1.166s] -- Detecting C compile features - done
+[1.169s] -- Detecting CXX compiler ABI info
+[1.274s] -- Detecting CXX compiler ABI info - done
+[1.288s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.288s] -- Detecting CXX compile features
+[1.289s] -- Detecting CXX compile features - done
+[1.290s] -- Found ament_cmake_test: 1.3.11 (/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_test/share/ament_cmake_test/cmake)
+[1.352s] -- Configuring done
+[1.379s] -- Generating done
+[1.392s] -- Build files have been written to: /home/user/microros_ws/firmware/dev_ws/build/ament_cmake_vendor_package
+[1.507s] Invoked command in '/home/user/microros_ws/firmware/dev_ws/build/ament_cmake_vendor_package' returned '0': AMENT_PREFIX_PATH=/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_test:/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_export_dependencies:/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_python:/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_libraries:/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_core:/home/user/microros_ws/firmware/dev_ws/install/ament_package CMAKE_PREFIX_PATH=/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_test:/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_export_dependencies:/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_python:/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_libraries:/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_core PYTHONPATH=/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_test/local/lib/python3.10/dist-packages:/home/user/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/cmake /home/user/microros_ws/firmware/dev_ws/ament/ament_cmake/ament_cmake_vendor_package -DCMAKE_INSTALL_PREFIX=/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_vendor_package
+[1.509s] Invoking command in '/home/user/microros_ws/firmware/dev_ws/build/ament_cmake_vendor_package': AMENT_PREFIX_PATH=/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_test:/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_export_dependencies:/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_python:/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_libraries:/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_core:/home/user/microros_ws/firmware/dev_ws/install/ament_package CMAKE_PREFIX_PATH=/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_test:/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_export_dependencies:/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_python:/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_libraries:/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_core PYTHONPATH=/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_test/local/lib/python3.10/dist-packages:/home/user/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/cmake --build /home/user/microros_ws/firmware/dev_ws/build/ament_cmake_vendor_package -- -j8 -l8
+[2.064s] [  4%] [34m[1mCreating directories for 'exlib_good'[0m
+[2.064s] [  9%] [34m[1mCreating directories for 'exlib_bad'[0m
+[2.065s] [ 14%] [34m[1mNo download step for 'exlib_bad'[0m
+[2.065s] [ 19%] [34m[1mNo download step for 'exlib_good'[0m
+[2.066s] [ 23%] [34m[1mNo patch step for 'exlib_good'[0m
+[2.067s] [ 28%] [34m[1mNo patch step for 'exlib_bad'[0m
+[2.067s] [ 33%] [34m[1mPerforming configure step for 'exlib_bad'[0m
+[2.068s] [ 38%] [34m[1mPerforming configure step for 'exlib_good'[0m
+[2.068s] loading initial cache file /home/user/microros_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_bad-config.cmake
+[2.069s] loading initial cache file /home/user/microros_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_good-config.cmake
+[2.069s] -- The C compiler identification is GNU 11.4.0
+[2.069s] -- The C compiler identification is GNU 11.4.0
+[2.070s] -- The CXX compiler identification is GNU 11.4.0
+[2.070s] -- Detecting C compiler ABI info
+[2.071s] -- The CXX compiler identification is GNU 11.4.0
+[2.071s] -- Detecting C compiler ABI info
+[2.079s] -- Detecting C compiler ABI info - done
+[2.079s] -- Detecting C compiler ABI info - done
+[2.079s] -- Check for working C compiler: /usr/bin/cc - skipped
+[2.079s] -- Detecting C compile features
+[2.079s] -- Detecting C compile features - done
+[2.079s] -- Check for working C compiler: /usr/bin/cc - skipped
+[2.079s] -- Detecting C compile features
+[2.080s] -- Detecting C compile features - done
+[2.080s] -- Detecting CXX compiler ABI info
+[2.080s] -- Detecting CXX compiler ABI info
+[2.080s] -- Detecting CXX compiler ABI info - done
+[2.080s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.080s] -- Detecting CXX compile features
+[2.080s] -- Detecting CXX compile features - done
+[2.080s] -- Configuring done
+[2.080s] -- Generating done
+[2.081s] -- Build files have been written to: /home/user/microros_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_good-prefix/src/exlib_good-build
+[2.081s] -- Detecting CXX compiler ABI info - done
+[2.082s] [ 42%] [34m[1mPerforming build step for 'exlib_good'[0m
+[2.082s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.083s] -- Detecting CXX compile features
+[2.083s] -- Detecting CXX compile features - done
+[2.086s] -- Configuring done
+[2.086s] -- Generating done
+[2.086s] -- Build files have been written to: /home/user/microros_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_bad-prefix/src/exlib_bad-build
+[2.113s] [ 47%] [34m[1mPerforming build step for 'exlib_bad'[0m
+[2.135s] [ 50%] [32mBuilding C object CMakeFiles/exlib.dir/src/exlib.c.o[0m
+[2.193s] [ 50%] [32mBuilding C object CMakeFiles/exlib.dir/src/exlib.c.o[0m
+[2.289s] [100%] [32m[1mLinking C shared library libexlib.so[0m
+[2.319s] [100%] [32m[1mLinking C shared library libexlib.so[0m
+[2.336s] [100%] Built target exlib
+[2.366s] [100%] Built target exlib
+[2.370s] [ 52%] [34m[1mPerforming install step for 'exlib_good'[0m
+[2.395s] [ 57%] [34m[1mPerforming install step for 'exlib_bad'[0m
+[2.403s] [35m[1mConsolidate compiler generated dependencies of target exlib[0m
+[2.418s] [100%] Built target exlib
+[2.434s] [35m[1mConsolidate compiler generated dependencies of target exlib[0m
+[2.441s] [36mInstall the project...[0m
+[2.443s] [100%] Built target exlib
+[2.452s] -- Install configuration: ""
+[2.452s] -- Installing: /home/user/microros_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_good-prefix/install/lib/libexlib.so
+[2.452s] -- Installing: /home/user/microros_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_good-prefix/install/include
+[2.452s] -- Installing: /home/user/microros_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_good-prefix/install/include/exlib
+[2.452s] -- Installing: /home/user/microros_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_good-prefix/install/include/exlib/visibility_control.h
+[2.452s] -- Installing: /home/user/microros_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_good-prefix/install/include/exlib/exlib.h
+[2.452s] -- Installing: /home/user/microros_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_good-prefix/install/lib/cmake/exlib/exlibTargets.cmake
+[2.453s] -- Installing: /home/user/microros_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_good-prefix/install/lib/cmake/exlib/exlibTargets-noconfig.cmake
+[2.453s] -- Installing: /home/user/microros_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_good-prefix/install/lib/cmake/exlib/exlibConfig.cmake
+[2.459s] [36mInstall the project...[0m
+[2.467s] -- Install configuration: ""
+[2.468s] -- Installing: /home/user/microros_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_bad-prefix/install/lib/libexlib.so
+[2.468s] -- Installing: /home/user/microros_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_bad-prefix/install/include
+[2.468s] -- Installing: /home/user/microros_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_bad-prefix/install/include/exlib
+[2.469s] -- Installing: /home/user/microros_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_bad-prefix/install/include/exlib/visibility_control.h
+[2.469s] -- Installing: /home/user/microros_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_bad-prefix/install/include/exlib/exlib.h
+[2.469s] -- Installing: /home/user/microros_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_bad-prefix/install/lib/cmake/exlib/exlibTargets.cmake
+[2.469s] -- Installing: /home/user/microros_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_bad-prefix/install/lib/cmake/exlib/exlibTargets-noconfig.cmake
+[2.469s] -- Installing: /home/user/microros_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/exlib_bad-prefix/install/lib/cmake/exlib/exlibConfig.cmake
+[2.473s] [ 61%] [34m[1mCompleted 'exlib_good'[0m
+[2.492s] [ 66%] [34m[1mCompleted 'exlib_bad'[0m
+[2.511s] [ 66%] Built target exlib_good
+[2.534s] [ 66%] Built target exlib_bad
+[2.554s] [ 71%] [34m[1mCreating directories for 'depender'[0m
+[2.635s] [ 76%] [34m[1mNo download step for 'depender'[0m
+[2.661s] [ 80%] [34m[1mNo patch step for 'depender'[0m
+[2.689s] [ 85%] [34m[1mPerforming configure step for 'depender'[0m
+[2.697s] loading initial cache file /home/user/microros_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/depender-config.cmake
+[2.757s] -- The C compiler identification is GNU 11.4.0
+[2.822s] -- The CXX compiler identification is GNU 11.4.0
+[2.832s] -- Detecting C compiler ABI info
+[2.929s] -- Detecting C compiler ABI info - done
+[2.944s] -- Check for working C compiler: /usr/bin/cc - skipped
+[2.944s] -- Detecting C compile features
+[2.945s] -- Detecting C compile features - done
+[2.950s] -- Detecting CXX compiler ABI info
+[3.065s] -- Detecting CXX compiler ABI info - done
+[3.080s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[3.081s] -- Detecting CXX compile features
+[3.082s] -- Detecting CXX compile features - done
+[3.084s] -- Configuring done
+[3.088s] -- Generating done
+[3.089s] -- Build files have been written to: /home/user/microros_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/depender-prefix/src/depender-build
+[3.117s] [ 90%] [34m[1mPerforming build step for 'depender'[0m
+[3.166s] [ 50%] [32mBuilding C object CMakeFiles/depender.dir/src/depender.c.o[0m
+[3.673s] [100%] [32m[1mLinking C executable depender[0m
+[3.712s] [100%] Built target depender
+[3.747s] [ 95%] [34m[1mPerforming install step for 'depender'[0m
+[3.781s] [35m[1mConsolidate compiler generated dependencies of target depender[0m
+[3.797s] [100%] Built target depender
+[3.815s] [36mInstall the project...[0m
+[3.825s] -- Install configuration: ""
+[3.826s] -- Installing: /home/user/microros_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/depender-prefix/install/bin/depender
+[3.826s] -- Set runtime path of "/home/user/microros_ws/firmware/dev_ws/build/ament_cmake_vendor_package/test/depender-prefix/install/bin/depender" to ""
+[3.847s] [100%] [34m[1mCompleted 'depender'[0m
+[3.887s] [100%] Built target depender
+[3.980s] Invoked command in '/home/user/microros_ws/firmware/dev_ws/build/ament_cmake_vendor_package' returned '0': AMENT_PREFIX_PATH=/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_test:/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_export_dependencies:/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_python:/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_libraries:/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_core:/home/user/microros_ws/firmware/dev_ws/install/ament_package CMAKE_PREFIX_PATH=/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_test:/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_export_dependencies:/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_python:/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_libraries:/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_core PYTHONPATH=/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_test/local/lib/python3.10/dist-packages:/home/user/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/cmake --build /home/user/microros_ws/firmware/dev_ws/build/ament_cmake_vendor_package -- -j8 -l8
+[3.982s] Invoking command in '/home/user/microros_ws/firmware/dev_ws/build/ament_cmake_vendor_package': AMENT_PREFIX_PATH=/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_test:/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_export_dependencies:/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_python:/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_libraries:/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_core:/home/user/microros_ws/firmware/dev_ws/install/ament_package CMAKE_PREFIX_PATH=/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_test:/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_export_dependencies:/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_python:/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_libraries:/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_core PYTHONPATH=/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_test/local/lib/python3.10/dist-packages:/home/user/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/cmake --install /home/user/microros_ws/firmware/dev_ws/build/ament_cmake_vendor_package
+[4.000s] -- Install configuration: ""
+[4.001s] -- Installing: /home/user/microros_ws/firmware/dev_ws/install/ament_cmake_vendor_package/share/ament_index/resource_index/package_run_dependencies/ament_cmake_vendor_package
+[4.001s] -- Installing: /home/user/microros_ws/firmware/dev_ws/install/ament_cmake_vendor_package/share/ament_index/resource_index/parent_prefix_path/ament_cmake_vendor_package
+[4.001s] -- Installing: /home/user/microros_ws/firmware/dev_ws/install/ament_cmake_vendor_package/share/ament_cmake_vendor_package/environment/ament_prefix_path.sh
+[4.001s] -- Installing: /home/user/microros_ws/firmware/dev_ws/install/ament_cmake_vendor_package/share/ament_cmake_vendor_package/environment/ament_prefix_path.dsv
+[4.002s] -- Installing: /home/user/microros_ws/firmware/dev_ws/install/ament_cmake_vendor_package/share/ament_cmake_vendor_package/environment/path.sh
+[4.002s] -- Installing: /home/user/microros_ws/firmware/dev_ws/install/ament_cmake_vendor_package/share/ament_cmake_vendor_package/environment/path.dsv
+[4.002s] -- Installing: /home/user/microros_ws/firmware/dev_ws/install/ament_cmake_vendor_package/share/ament_cmake_vendor_package/local_setup.bash
+[4.002s] -- Installing: /home/user/microros_ws/firmware/dev_ws/install/ament_cmake_vendor_package/share/ament_cmake_vendor_package/local_setup.sh
+[4.002s] -- Installing: /home/user/microros_ws/firmware/dev_ws/install/ament_cmake_vendor_package/share/ament_cmake_vendor_package/local_setup.zsh
+[4.002s] -- Installing: /home/user/microros_ws/firmware/dev_ws/install/ament_cmake_vendor_package/share/ament_cmake_vendor_package/local_setup.dsv
+[4.003s] -- Installing: /home/user/microros_ws/firmware/dev_ws/install/ament_cmake_vendor_package/share/ament_cmake_vendor_package/package.dsv
+[4.003s] -- Installing: /home/user/microros_ws/firmware/dev_ws/install/ament_cmake_vendor_package/share/ament_index/resource_index/packages/ament_cmake_vendor_package
+[4.003s] -- Installing: /home/user/microros_ws/firmware/dev_ws/install/ament_cmake_vendor_package/share/ament_cmake_vendor_package/cmake/ament_cmake_vendor_package-extras.cmake
+[4.003s] -- Installing: /home/user/microros_ws/firmware/dev_ws/install/ament_cmake_vendor_package/share/ament_cmake_vendor_package/cmake/ament_cmake_export_dependencies-extras.cmake
+[4.003s] -- Installing: /home/user/microros_ws/firmware/dev_ws/install/ament_cmake_vendor_package/share/ament_cmake_vendor_package/cmake/ament_cmake_vendor_packageConfig.cmake
+[4.003s] -- Installing: /home/user/microros_ws/firmware/dev_ws/install/ament_cmake_vendor_package/share/ament_cmake_vendor_package/cmake/ament_cmake_vendor_packageConfig-version.cmake
+[4.003s] -- Installing: /home/user/microros_ws/firmware/dev_ws/install/ament_cmake_vendor_package/share/ament_cmake_vendor_package/package.xml
+[4.004s] -- Up-to-date: /home/user/microros_ws/firmware/dev_ws/install/ament_cmake_vendor_package/share/ament_cmake_vendor_package/cmake
+[4.004s] -- Installing: /home/user/microros_ws/firmware/dev_ws/install/ament_cmake_vendor_package/share/ament_cmake_vendor_package/cmake/templates
+[4.004s] -- Installing: /home/user/microros_ws/firmware/dev_ws/install/ament_cmake_vendor_package/share/ament_cmake_vendor_package/cmake/templates/vendor_package.sh.in
+[4.004s] -- Installing: /home/user/microros_ws/firmware/dev_ws/install/ament_cmake_vendor_package/share/ament_cmake_vendor_package/cmake/templates/target.repos.in
+[4.005s] -- Installing: /home/user/microros_ws/firmware/dev_ws/install/ament_cmake_vendor_package/share/ament_cmake_vendor_package/cmake/templates/vendor_package.bat.in
+[4.005s] -- Installing: /home/user/microros_ws/firmware/dev_ws/install/ament_cmake_vendor_package/share/ament_cmake_vendor_package/cmake/templates/vendor_package_cmake_prefix.dsv.in
+[4.006s] -- Installing: /home/user/microros_ws/firmware/dev_ws/install/ament_cmake_vendor_package/share/ament_cmake_vendor_package/cmake/templates/vendor_package_cmake_prefix.cmake.in
+[4.006s] -- Installing: /home/user/microros_ws/firmware/dev_ws/install/ament_cmake_vendor_package/share/ament_cmake_vendor_package/cmake/templates/vendor_package_cmake_prefix.sh.in
+[4.007s] -- Installing: /home/user/microros_ws/firmware/dev_ws/install/ament_cmake_vendor_package/share/ament_cmake_vendor_package/cmake/templates/vendor_package.dsv.in
+[4.007s] -- Installing: /home/user/microros_ws/firmware/dev_ws/install/ament_cmake_vendor_package/share/ament_cmake_vendor_package/cmake/templates/vendor_package_cmake_prefix.bat.in
+[4.007s] -- Installing: /home/user/microros_ws/firmware/dev_ws/install/ament_cmake_vendor_package/share/ament_cmake_vendor_package/cmake/ament_vendor.cmake
+[4.024s] Invoked command in '/home/user/microros_ws/firmware/dev_ws/build/ament_cmake_vendor_package' returned '0': AMENT_PREFIX_PATH=/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_test:/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_export_dependencies:/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_python:/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_libraries:/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_core:/home/user/microros_ws/firmware/dev_ws/install/ament_package CMAKE_PREFIX_PATH=/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_test:/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_export_dependencies:/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_python:/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_libraries:/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_core PYTHONPATH=/home/user/microros_ws/firmware/dev_ws/install/ament_cmake_test/local/lib/python3.10/dist-packages:/home/user/microros_ws/firmware/dev_ws/install/ament_package/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/cmake --install /home/user/microros_ws/firmware/dev_ws/build/ament_cmake_vendor_package

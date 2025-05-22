@@ -1,0 +1,3 @@
+/home/user/microros_ws/firmware/mcu_ws/build/actionlib_msgs/rosidl_adapter/actionlib_msgs:msg/GoalID.idl
+/home/user/microros_ws/firmware/mcu_ws/build/actionlib_msgs/rosidl_adapter/actionlib_msgs:msg/GoalStatus.idl
+/home/user/microros_ws/firmware/mcu_ws/build/actionlib_msgs/rosidl_adapter/actionlib_msgs:msg/GoalStatusArray.idl

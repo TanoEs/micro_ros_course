@@ -1,0 +1,15 @@
+/home/user/microros_ws/firmware/mcu_ws/install/share/ament_index/resource_index/package_run_dependencies/test_rmw_implementation
+/home/user/microros_ws/firmware/mcu_ws/install/share/ament_index/resource_index/parent_prefix_path/test_rmw_implementation
+/home/user/microros_ws/firmware/mcu_ws/install/share/test_rmw_implementation/environment/ament_prefix_path.sh
+/home/user/microros_ws/firmware/mcu_ws/install/share/test_rmw_implementation/environment/ament_prefix_path.dsv
+/home/user/microros_ws/firmware/mcu_ws/install/share/test_rmw_implementation/environment/path.sh
+/home/user/microros_ws/firmware/mcu_ws/install/share/test_rmw_implementation/environment/path.dsv
+/home/user/microros_ws/firmware/mcu_ws/install/share/test_rmw_implementation/local_setup.bash
+/home/user/microros_ws/firmware/mcu_ws/install/share/test_rmw_implementation/local_setup.sh
+/home/user/microros_ws/firmware/mcu_ws/install/share/test_rmw_implementation/local_setup.zsh
+/home/user/microros_ws/firmware/mcu_ws/install/share/test_rmw_implementation/local_setup.dsv
+/home/user/microros_ws/firmware/mcu_ws/install/share/test_rmw_implementation/package.dsv
+/home/user/microros_ws/firmware/mcu_ws/install/share/ament_index/resource_index/packages/test_rmw_implementation
+/home/user/microros_ws/firmware/mcu_ws/install/share/test_rmw_implementation/cmake/test_rmw_implementationConfig.cmake
+/home/user/microros_ws/firmware/mcu_ws/install/share/test_rmw_implementation/cmake/test_rmw_implementationConfig-version.cmake
+/home/user/microros_ws/firmware/mcu_ws/install/share/test_rmw_implementation/package.xml

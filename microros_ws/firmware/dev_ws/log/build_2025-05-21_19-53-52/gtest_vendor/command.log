@@ -1,0 +1,6 @@
+Invoking command in '/home/user/microros_ws/firmware/dev_ws/build/gtest_vendor': _=/usr/bin/env /usr/bin/cmake /home/user/microros_ws/firmware/dev_ws/ament/googletest/googletest -DCMAKE_INSTALL_PREFIX=/home/user/microros_ws/firmware/dev_ws/install/gtest_vendor
+Invoked command in '/home/user/microros_ws/firmware/dev_ws/build/gtest_vendor' returned '0': _=/usr/bin/env /usr/bin/cmake /home/user/microros_ws/firmware/dev_ws/ament/googletest/googletest -DCMAKE_INSTALL_PREFIX=/home/user/microros_ws/firmware/dev_ws/install/gtest_vendor
+Invoking command in '/home/user/microros_ws/firmware/dev_ws/build/gtest_vendor': _=/usr/bin/env /usr/bin/cmake --build /home/user/microros_ws/firmware/dev_ws/build/gtest_vendor -- -j8 -l8
+Invoked command in '/home/user/microros_ws/firmware/dev_ws/build/gtest_vendor' returned '0': _=/usr/bin/env /usr/bin/cmake --build /home/user/microros_ws/firmware/dev_ws/build/gtest_vendor -- -j8 -l8
+Invoking command in '/home/user/microros_ws/firmware/dev_ws/build/gtest_vendor': _=/usr/bin/env /usr/bin/cmake --install /home/user/microros_ws/firmware/dev_ws/build/gtest_vendor
+Invoked command in '/home/user/microros_ws/firmware/dev_ws/build/gtest_vendor' returned '0': _=/usr/bin/env /usr/bin/cmake --install /home/user/microros_ws/firmware/dev_ws/build/gtest_vendor

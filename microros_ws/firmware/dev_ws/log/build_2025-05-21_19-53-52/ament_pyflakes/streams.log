@@ -1,0 +1,48 @@
+[0.911s] Invoking command in '/home/user/microros_ws/firmware/dev_ws/ament/ament_lint/ament_pyflakes': AMENT_PREFIX_PATH=/home/user/microros_ws/firmware/dev_ws/install/ament_pycodestyle PATH=/home/user/microros_ws/firmware/dev_ws/install/ament_pycodestyle/bin:${PATH} PYTHONPATH=/home/user/microros_ws/firmware/dev_ws/build/ament_pyflakes/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/microros_ws/firmware/dev_ws/install/ament_pyflakes/lib/python3.10/site-packages:/home/user/microros_ws/firmware/dev_ws/install/ament_pycodestyle/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/ament_pyflakes build --build-base /home/user/microros_ws/firmware/dev_ws/build/ament_pyflakes/build install --record /home/user/microros_ws/firmware/dev_ws/build/ament_pyflakes/install.log --single-version-externally-managed install_data
+[1.072s] /usr/local/lib/python3.10/dist-packages/setuptools/_distutils/dist.py:289: UserWarning: Unknown distribution option: 'tests_require'
+[1.072s]   warnings.warn(msg)
+[1.096s] /usr/local/lib/python3.10/dist-packages/setuptools/dist.py:759: SetuptoolsDeprecationWarning: License classifiers are deprecated.
+[1.096s] !!
+[1.096s] 
+[1.096s]         ********************************************************************************
+[1.097s]         Please consider removing the following classifiers in favor of a SPDX license expression:
+[1.097s] 
+[1.098s]         License :: OSI Approved :: Apache Software License
+[1.098s] 
+[1.098s]         See https://packaging.python.org/en/latest/guides/writing-pyproject-toml/#license for details.
+[1.098s]         ********************************************************************************
+[1.098s] 
+[1.098s] !!
+[1.099s]   self._finalize_license_expression()
+[1.171s] running egg_info
+[1.190s] creating ../../../build/ament_pyflakes/ament_pyflakes.egg-info
+[1.191s] writing ../../../build/ament_pyflakes/ament_pyflakes.egg-info/PKG-INFO
+[1.192s] writing dependency_links to ../../../build/ament_pyflakes/ament_pyflakes.egg-info/dependency_links.txt
+[1.192s] writing entry points to ../../../build/ament_pyflakes/ament_pyflakes.egg-info/entry_points.txt
+[1.192s] writing requirements to ../../../build/ament_pyflakes/ament_pyflakes.egg-info/requires.txt
+[1.192s] writing top-level names to ../../../build/ament_pyflakes/ament_pyflakes.egg-info/top_level.txt
+[1.193s] writing manifest file '../../../build/ament_pyflakes/ament_pyflakes.egg-info/SOURCES.txt'
+[1.234s] reading manifest file '../../../build/ament_pyflakes/ament_pyflakes.egg-info/SOURCES.txt'
+[1.236s] writing manifest file '../../../build/ament_pyflakes/ament_pyflakes.egg-info/SOURCES.txt'
+[1.236s] running build
+[1.236s] running build_py
+[1.237s] creating /home/user/microros_ws/firmware/dev_ws/build/ament_pyflakes/build/lib/ament_pyflakes
+[1.237s] copying ament_pyflakes/__init__.py -> /home/user/microros_ws/firmware/dev_ws/build/ament_pyflakes/build/lib/ament_pyflakes
+[1.237s] copying ament_pyflakes/main.py -> /home/user/microros_ws/firmware/dev_ws/build/ament_pyflakes/build/lib/ament_pyflakes
+[1.238s] running install
+[1.246s] running install_lib
+[1.266s] creating /home/user/microros_ws/firmware/dev_ws/install/ament_pyflakes/lib/python3.10/site-packages/ament_pyflakes
+[1.266s] copying /home/user/microros_ws/firmware/dev_ws/build/ament_pyflakes/build/lib/ament_pyflakes/__init__.py -> /home/user/microros_ws/firmware/dev_ws/install/ament_pyflakes/lib/python3.10/site-packages/ament_pyflakes
+[1.267s] copying /home/user/microros_ws/firmware/dev_ws/build/ament_pyflakes/build/lib/ament_pyflakes/main.py -> /home/user/microros_ws/firmware/dev_ws/install/ament_pyflakes/lib/python3.10/site-packages/ament_pyflakes
+[1.267s] byte-compiling /home/user/microros_ws/firmware/dev_ws/install/ament_pyflakes/lib/python3.10/site-packages/ament_pyflakes/__init__.py to __init__.cpython-310.pyc
+[1.268s] byte-compiling /home/user/microros_ws/firmware/dev_ws/install/ament_pyflakes/lib/python3.10/site-packages/ament_pyflakes/main.py to main.cpython-310.pyc
+[1.270s] running install_data
+[1.271s] copying package.xml -> /home/user/microros_ws/firmware/dev_ws/install/ament_pyflakes/share/ament_pyflakes
+[1.271s] creating /home/user/microros_ws/firmware/dev_ws/install/ament_pyflakes/share/ament_index/resource_index/packages
+[1.271s] copying resource/ament_pyflakes -> /home/user/microros_ws/firmware/dev_ws/install/ament_pyflakes/share/ament_index/resource_index/packages
+[1.272s] running install_egg_info
+[1.294s] Copying ../../../build/ament_pyflakes/ament_pyflakes.egg-info to /home/user/microros_ws/firmware/dev_ws/install/ament_pyflakes/lib/python3.10/site-packages/ament_pyflakes-0.12.12-py3.10.egg-info
+[1.295s] running install_scripts
+[1.470s] Installing ament_pyflakes script to /home/user/microros_ws/firmware/dev_ws/install/ament_pyflakes/bin
+[1.470s] writing list of installed files to '/home/user/microros_ws/firmware/dev_ws/build/ament_pyflakes/install.log'
+[1.520s] Invoked command in '/home/user/microros_ws/firmware/dev_ws/ament/ament_lint/ament_pyflakes' returned '0': AMENT_PREFIX_PATH=/home/user/microros_ws/firmware/dev_ws/install/ament_pycodestyle PATH=/home/user/microros_ws/firmware/dev_ws/install/ament_pycodestyle/bin:${PATH} PYTHONPATH=/home/user/microros_ws/firmware/dev_ws/build/ament_pyflakes/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/microros_ws/firmware/dev_ws/install/ament_pyflakes/lib/python3.10/site-packages:/home/user/microros_ws/firmware/dev_ws/install/ament_pycodestyle/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/ament_pyflakes build --build-base /home/user/microros_ws/firmware/dev_ws/build/ament_pyflakes/build install --record /home/user/microros_ws/firmware/dev_ws/build/ament_pyflakes/install.log --single-version-externally-managed install_data

@@ -1,0 +1,48 @@
+[3.523s] Invoking command in '/home/user/microros_ws/firmware/dev_ws/ament/ament_lint/ament_cppcheck': PYTHONPATH=/home/user/microros_ws/firmware/dev_ws/build/ament_cppcheck/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/microros_ws/firmware/dev_ws/install/ament_cppcheck/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/ament_cppcheck build --build-base /home/user/microros_ws/firmware/dev_ws/build/ament_cppcheck/build install --record /home/user/microros_ws/firmware/dev_ws/build/ament_cppcheck/install.log --single-version-externally-managed install_data
+[3.690s] /usr/local/lib/python3.10/dist-packages/setuptools/_distutils/dist.py:289: UserWarning: Unknown distribution option: 'tests_require'
+[3.690s]   warnings.warn(msg)
+[3.714s] /usr/local/lib/python3.10/dist-packages/setuptools/dist.py:759: SetuptoolsDeprecationWarning: License classifiers are deprecated.
+[3.715s] !!
+[3.715s] 
+[3.715s]         ********************************************************************************
+[3.715s]         Please consider removing the following classifiers in favor of a SPDX license expression:
+[3.715s] 
+[3.715s]         License :: OSI Approved :: Apache Software License
+[3.715s] 
+[3.716s]         See https://packaging.python.org/en/latest/guides/writing-pyproject-toml/#license for details.
+[3.716s]         ********************************************************************************
+[3.716s] 
+[3.716s] !!
+[3.716s]   self._finalize_license_expression()
+[3.762s] running egg_info
+[3.774s] creating ../../../build/ament_cppcheck/ament_cppcheck.egg-info
+[3.774s] writing ../../../build/ament_cppcheck/ament_cppcheck.egg-info/PKG-INFO
+[3.774s] writing dependency_links to ../../../build/ament_cppcheck/ament_cppcheck.egg-info/dependency_links.txt
+[3.774s] writing entry points to ../../../build/ament_cppcheck/ament_cppcheck.egg-info/entry_points.txt
+[3.775s] writing requirements to ../../../build/ament_cppcheck/ament_cppcheck.egg-info/requires.txt
+[3.775s] writing top-level names to ../../../build/ament_cppcheck/ament_cppcheck.egg-info/top_level.txt
+[3.775s] writing manifest file '../../../build/ament_cppcheck/ament_cppcheck.egg-info/SOURCES.txt'
+[3.801s] reading manifest file '../../../build/ament_cppcheck/ament_cppcheck.egg-info/SOURCES.txt'
+[3.802s] writing manifest file '../../../build/ament_cppcheck/ament_cppcheck.egg-info/SOURCES.txt'
+[3.802s] running build
+[3.803s] running build_py
+[3.803s] creating /home/user/microros_ws/firmware/dev_ws/build/ament_cppcheck/build/lib/ament_cppcheck
+[3.803s] copying ament_cppcheck/__init__.py -> /home/user/microros_ws/firmware/dev_ws/build/ament_cppcheck/build/lib/ament_cppcheck
+[3.803s] copying ament_cppcheck/main.py -> /home/user/microros_ws/firmware/dev_ws/build/ament_cppcheck/build/lib/ament_cppcheck
+[3.804s] running install
+[3.809s] running install_lib
+[3.821s] creating /home/user/microros_ws/firmware/dev_ws/install/ament_cppcheck/lib/python3.10/site-packages/ament_cppcheck
+[3.821s] copying /home/user/microros_ws/firmware/dev_ws/build/ament_cppcheck/build/lib/ament_cppcheck/__init__.py -> /home/user/microros_ws/firmware/dev_ws/install/ament_cppcheck/lib/python3.10/site-packages/ament_cppcheck
+[3.822s] copying /home/user/microros_ws/firmware/dev_ws/build/ament_cppcheck/build/lib/ament_cppcheck/main.py -> /home/user/microros_ws/firmware/dev_ws/install/ament_cppcheck/lib/python3.10/site-packages/ament_cppcheck
+[3.822s] byte-compiling /home/user/microros_ws/firmware/dev_ws/install/ament_cppcheck/lib/python3.10/site-packages/ament_cppcheck/__init__.py to __init__.cpython-310.pyc
+[3.822s] byte-compiling /home/user/microros_ws/firmware/dev_ws/install/ament_cppcheck/lib/python3.10/site-packages/ament_cppcheck/main.py to main.cpython-310.pyc
+[3.824s] running install_data
+[3.825s] copying package.xml -> /home/user/microros_ws/firmware/dev_ws/install/ament_cppcheck/share/ament_cppcheck
+[3.825s] creating /home/user/microros_ws/firmware/dev_ws/install/ament_cppcheck/share/ament_index/resource_index/packages
+[3.825s] copying resource/ament_cppcheck -> /home/user/microros_ws/firmware/dev_ws/install/ament_cppcheck/share/ament_index/resource_index/packages
+[3.825s] running install_egg_info
+[3.839s] Copying ../../../build/ament_cppcheck/ament_cppcheck.egg-info to /home/user/microros_ws/firmware/dev_ws/install/ament_cppcheck/lib/python3.10/site-packages/ament_cppcheck-0.12.12-py3.10.egg-info
+[3.840s] running install_scripts
+[3.944s] Installing ament_cppcheck script to /home/user/microros_ws/firmware/dev_ws/install/ament_cppcheck/bin
+[3.945s] writing list of installed files to '/home/user/microros_ws/firmware/dev_ws/build/ament_cppcheck/install.log'
+[3.998s] Invoked command in '/home/user/microros_ws/firmware/dev_ws/ament/ament_lint/ament_cppcheck' returned '0': PYTHONPATH=/home/user/microros_ws/firmware/dev_ws/build/ament_cppcheck/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/microros_ws/firmware/dev_ws/install/ament_cppcheck/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/ament_cppcheck build --build-base /home/user/microros_ws/firmware/dev_ws/build/ament_cppcheck/build install --record /home/user/microros_ws/firmware/dev_ws/build/ament_cppcheck/install.log --single-version-externally-managed install_data

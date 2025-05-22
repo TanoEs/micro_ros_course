@@ -1,0 +1,51 @@
+[1.049s] Invoking command in '/home/user/microros_ws/firmware/dev_ws/ament/ament_lint/ament_pep257': AMENT_PREFIX_PATH=/home/user/microros_ws/firmware/dev_ws/install/ament_flake8:/home/user/microros_ws/firmware/dev_ws/install/ament_lint PATH=/home/user/microros_ws/firmware/dev_ws/install/ament_flake8/bin:${PATH} PYTHONPATH=/home/user/microros_ws/firmware/dev_ws/build/ament_pep257/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/microros_ws/firmware/dev_ws/install/ament_pep257/lib/python3.10/site-packages:/home/user/microros_ws/firmware/dev_ws/install/ament_flake8/lib/python3.10/site-packages:/home/user/microros_ws/firmware/dev_ws/install/ament_lint/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/ament_pep257 build --build-base /home/user/microros_ws/firmware/dev_ws/build/ament_pep257/build install --record /home/user/microros_ws/firmware/dev_ws/build/ament_pep257/install.log --single-version-externally-managed install_data
+[1.356s] /usr/local/lib/python3.10/dist-packages/setuptools/_distutils/dist.py:289: UserWarning: Unknown distribution option: 'tests_require'
+[1.356s]   warnings.warn(msg)
+[1.356s] /usr/local/lib/python3.10/dist-packages/setuptools/dist.py:759: SetuptoolsDeprecationWarning: License classifiers are deprecated.
+[1.356s] !!
+[1.356s] 
+[1.357s]         ********************************************************************************
+[1.357s]         Please consider removing the following classifiers in favor of a SPDX license expression:
+[1.357s] 
+[1.358s]         License :: OSI Approved :: Apache Software License
+[1.358s] 
+[1.358s]         See https://packaging.python.org/en/latest/guides/writing-pyproject-toml/#license for details.
+[1.358s]         ********************************************************************************
+[1.358s] 
+[1.359s] !!
+[1.359s]   self._finalize_license_expression()
+[1.412s] running egg_info
+[1.430s] creating ../../../build/ament_pep257/ament_pep257.egg-info
+[1.430s] writing ../../../build/ament_pep257/ament_pep257.egg-info/PKG-INFO
+[1.430s] writing dependency_links to ../../../build/ament_pep257/ament_pep257.egg-info/dependency_links.txt
+[1.430s] writing entry points to ../../../build/ament_pep257/ament_pep257.egg-info/entry_points.txt
+[1.430s] writing requirements to ../../../build/ament_pep257/ament_pep257.egg-info/requires.txt
+[1.431s] writing top-level names to ../../../build/ament_pep257/ament_pep257.egg-info/top_level.txt
+[1.431s] writing manifest file '../../../build/ament_pep257/ament_pep257.egg-info/SOURCES.txt'
+[1.466s] reading manifest file '../../../build/ament_pep257/ament_pep257.egg-info/SOURCES.txt'
+[1.468s] writing manifest file '../../../build/ament_pep257/ament_pep257.egg-info/SOURCES.txt'
+[1.468s] running build
+[1.468s] running build_py
+[1.469s] creating /home/user/microros_ws/firmware/dev_ws/build/ament_pep257/build/lib/ament_pep257
+[1.469s] copying ament_pep257/pytest_marker.py -> /home/user/microros_ws/firmware/dev_ws/build/ament_pep257/build/lib/ament_pep257
+[1.469s] copying ament_pep257/__init__.py -> /home/user/microros_ws/firmware/dev_ws/build/ament_pep257/build/lib/ament_pep257
+[1.469s] copying ament_pep257/main.py -> /home/user/microros_ws/firmware/dev_ws/build/ament_pep257/build/lib/ament_pep257
+[1.469s] running install
+[1.473s] running install_lib
+[1.485s] creating /home/user/microros_ws/firmware/dev_ws/install/ament_pep257/lib/python3.10/site-packages/ament_pep257
+[1.485s] copying /home/user/microros_ws/firmware/dev_ws/build/ament_pep257/build/lib/ament_pep257/pytest_marker.py -> /home/user/microros_ws/firmware/dev_ws/install/ament_pep257/lib/python3.10/site-packages/ament_pep257
+[1.485s] copying /home/user/microros_ws/firmware/dev_ws/build/ament_pep257/build/lib/ament_pep257/__init__.py -> /home/user/microros_ws/firmware/dev_ws/install/ament_pep257/lib/python3.10/site-packages/ament_pep257
+[1.485s] copying /home/user/microros_ws/firmware/dev_ws/build/ament_pep257/build/lib/ament_pep257/main.py -> /home/user/microros_ws/firmware/dev_ws/install/ament_pep257/lib/python3.10/site-packages/ament_pep257
+[1.486s] byte-compiling /home/user/microros_ws/firmware/dev_ws/install/ament_pep257/lib/python3.10/site-packages/ament_pep257/pytest_marker.py to pytest_marker.cpython-310.pyc
+[1.486s] byte-compiling /home/user/microros_ws/firmware/dev_ws/install/ament_pep257/lib/python3.10/site-packages/ament_pep257/__init__.py to __init__.cpython-310.pyc
+[1.486s] byte-compiling /home/user/microros_ws/firmware/dev_ws/install/ament_pep257/lib/python3.10/site-packages/ament_pep257/main.py to main.cpython-310.pyc
+[1.488s] running install_data
+[1.488s] copying package.xml -> /home/user/microros_ws/firmware/dev_ws/install/ament_pep257/share/ament_pep257
+[1.488s] creating /home/user/microros_ws/firmware/dev_ws/install/ament_pep257/share/ament_index/resource_index/packages
+[1.489s] copying resource/ament_pep257 -> /home/user/microros_ws/firmware/dev_ws/install/ament_pep257/share/ament_index/resource_index/packages
+[1.489s] running install_egg_info
+[1.502s] Copying ../../../build/ament_pep257/ament_pep257.egg-info to /home/user/microros_ws/firmware/dev_ws/install/ament_pep257/lib/python3.10/site-packages/ament_pep257-0.12.12-py3.10.egg-info
+[1.503s] running install_scripts
+[1.606s] Installing ament_pep257 script to /home/user/microros_ws/firmware/dev_ws/install/ament_pep257/bin
+[1.606s] writing list of installed files to '/home/user/microros_ws/firmware/dev_ws/build/ament_pep257/install.log'
+[1.717s] Invoked command in '/home/user/microros_ws/firmware/dev_ws/ament/ament_lint/ament_pep257' returned '0': AMENT_PREFIX_PATH=/home/user/microros_ws/firmware/dev_ws/install/ament_flake8:/home/user/microros_ws/firmware/dev_ws/install/ament_lint PATH=/home/user/microros_ws/firmware/dev_ws/install/ament_flake8/bin:${PATH} PYTHONPATH=/home/user/microros_ws/firmware/dev_ws/build/ament_pep257/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/microros_ws/firmware/dev_ws/install/ament_pep257/lib/python3.10/site-packages:/home/user/microros_ws/firmware/dev_ws/install/ament_flake8/lib/python3.10/site-packages:/home/user/microros_ws/firmware/dev_ws/install/ament_lint/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/ament_pep257 build --build-base /home/user/microros_ws/firmware/dev_ws/build/ament_pep257/build install --record /home/user/microros_ws/firmware/dev_ws/build/ament_pep257/install.log --single-version-externally-managed install_data

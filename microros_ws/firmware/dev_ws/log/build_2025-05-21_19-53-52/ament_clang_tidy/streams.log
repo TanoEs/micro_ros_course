@@ -1,0 +1,48 @@
+[1.386s] Invoking command in '/home/user/microros_ws/firmware/dev_ws/ament/ament_lint/ament_clang_tidy': AMENT_PREFIX_PATH=/home/user/microros_ws/firmware/dev_ws/install/ament_copyright:/home/user/microros_ws/firmware/dev_ws/install/ament_pep257:/home/user/microros_ws/firmware/dev_ws/install/ament_flake8:/home/user/microros_ws/firmware/dev_ws/install/ament_lint PATH=/home/user/microros_ws/firmware/dev_ws/install/ament_copyright/bin:/home/user/microros_ws/firmware/dev_ws/install/ament_pep257/bin:/home/user/microros_ws/firmware/dev_ws/install/ament_flake8/bin:${PATH} PYTHONPATH=/home/user/microros_ws/firmware/dev_ws/build/ament_clang_tidy/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/microros_ws/firmware/dev_ws/install/ament_clang_tidy/lib/python3.10/site-packages:/home/user/microros_ws/firmware/dev_ws/install/ament_copyright/lib/python3.10/site-packages:/home/user/microros_ws/firmware/dev_ws/install/ament_pep257/lib/python3.10/site-packages:/home/user/microros_ws/firmware/dev_ws/install/ament_flake8/lib/python3.10/site-packages:/home/user/microros_ws/firmware/dev_ws/install/ament_lint/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/ament_clang_tidy build --build-base /home/user/microros_ws/firmware/dev_ws/build/ament_clang_tidy/build install --record /home/user/microros_ws/firmware/dev_ws/build/ament_clang_tidy/install.log --single-version-externally-managed install_data
+[1.626s] /usr/local/lib/python3.10/dist-packages/setuptools/_distutils/dist.py:289: UserWarning: Unknown distribution option: 'tests_require'
+[1.626s]   warnings.warn(msg)
+[1.668s] /usr/local/lib/python3.10/dist-packages/setuptools/dist.py:759: SetuptoolsDeprecationWarning: License classifiers are deprecated.
+[1.668s] !!
+[1.668s] 
+[1.668s]         ********************************************************************************
+[1.668s]         Please consider removing the following classifiers in favor of a SPDX license expression:
+[1.669s] 
+[1.669s]         License :: OSI Approved :: Apache Software License
+[1.669s] 
+[1.669s]         See https://packaging.python.org/en/latest/guides/writing-pyproject-toml/#license for details.
+[1.669s]         ********************************************************************************
+[1.669s] 
+[1.669s] !!
+[1.669s]   self._finalize_license_expression()
+[1.718s] running egg_info
+[1.731s] creating ../../../build/ament_clang_tidy/ament_clang_tidy.egg-info
+[1.731s] writing ../../../build/ament_clang_tidy/ament_clang_tidy.egg-info/PKG-INFO
+[1.731s] writing dependency_links to ../../../build/ament_clang_tidy/ament_clang_tidy.egg-info/dependency_links.txt
+[1.732s] writing entry points to ../../../build/ament_clang_tidy/ament_clang_tidy.egg-info/entry_points.txt
+[1.732s] writing requirements to ../../../build/ament_clang_tidy/ament_clang_tidy.egg-info/requires.txt
+[1.732s] writing top-level names to ../../../build/ament_clang_tidy/ament_clang_tidy.egg-info/top_level.txt
+[1.732s] writing manifest file '../../../build/ament_clang_tidy/ament_clang_tidy.egg-info/SOURCES.txt'
+[1.763s] reading manifest file '../../../build/ament_clang_tidy/ament_clang_tidy.egg-info/SOURCES.txt'
+[1.765s] writing manifest file '../../../build/ament_clang_tidy/ament_clang_tidy.egg-info/SOURCES.txt'
+[1.765s] running build
+[1.765s] running build_py
+[1.765s] creating /home/user/microros_ws/firmware/dev_ws/build/ament_clang_tidy/build/lib/ament_clang_tidy
+[1.766s] copying ament_clang_tidy/__init__.py -> /home/user/microros_ws/firmware/dev_ws/build/ament_clang_tidy/build/lib/ament_clang_tidy
+[1.766s] copying ament_clang_tidy/main.py -> /home/user/microros_ws/firmware/dev_ws/build/ament_clang_tidy/build/lib/ament_clang_tidy
+[1.766s] running install
+[1.778s] running install_lib
+[1.785s] creating /home/user/microros_ws/firmware/dev_ws/install/ament_clang_tidy/lib/python3.10/site-packages/ament_clang_tidy
+[1.786s] copying /home/user/microros_ws/firmware/dev_ws/build/ament_clang_tidy/build/lib/ament_clang_tidy/__init__.py -> /home/user/microros_ws/firmware/dev_ws/install/ament_clang_tidy/lib/python3.10/site-packages/ament_clang_tidy
+[1.786s] copying /home/user/microros_ws/firmware/dev_ws/build/ament_clang_tidy/build/lib/ament_clang_tidy/main.py -> /home/user/microros_ws/firmware/dev_ws/install/ament_clang_tidy/lib/python3.10/site-packages/ament_clang_tidy
+[1.786s] byte-compiling /home/user/microros_ws/firmware/dev_ws/install/ament_clang_tidy/lib/python3.10/site-packages/ament_clang_tidy/__init__.py to __init__.cpython-310.pyc
+[1.787s] byte-compiling /home/user/microros_ws/firmware/dev_ws/install/ament_clang_tidy/lib/python3.10/site-packages/ament_clang_tidy/main.py to main.cpython-310.pyc
+[1.790s] running install_data
+[1.791s] copying package.xml -> /home/user/microros_ws/firmware/dev_ws/install/ament_clang_tidy/share/ament_clang_tidy
+[1.791s] creating /home/user/microros_ws/firmware/dev_ws/install/ament_clang_tidy/share/ament_index/resource_index/packages
+[1.791s] copying resource/ament_clang_tidy -> /home/user/microros_ws/firmware/dev_ws/install/ament_clang_tidy/share/ament_index/resource_index/packages
+[1.791s] running install_egg_info
+[1.804s] Copying ../../../build/ament_clang_tidy/ament_clang_tidy.egg-info to /home/user/microros_ws/firmware/dev_ws/install/ament_clang_tidy/lib/python3.10/site-packages/ament_clang_tidy-0.12.12-py3.10.egg-info
+[1.805s] running install_scripts
+[1.929s] Installing ament_clang_tidy script to /home/user/microros_ws/firmware/dev_ws/install/ament_clang_tidy/bin
+[1.929s] writing list of installed files to '/home/user/microros_ws/firmware/dev_ws/build/ament_clang_tidy/install.log'
+[2.094s] Invoked command in '/home/user/microros_ws/firmware/dev_ws/ament/ament_lint/ament_clang_tidy' returned '0': AMENT_PREFIX_PATH=/home/user/microros_ws/firmware/dev_ws/install/ament_copyright:/home/user/microros_ws/firmware/dev_ws/install/ament_pep257:/home/user/microros_ws/firmware/dev_ws/install/ament_flake8:/home/user/microros_ws/firmware/dev_ws/install/ament_lint PATH=/home/user/microros_ws/firmware/dev_ws/install/ament_copyright/bin:/home/user/microros_ws/firmware/dev_ws/install/ament_pep257/bin:/home/user/microros_ws/firmware/dev_ws/install/ament_flake8/bin:${PATH} PYTHONPATH=/home/user/microros_ws/firmware/dev_ws/build/ament_clang_tidy/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/microros_ws/firmware/dev_ws/install/ament_clang_tidy/lib/python3.10/site-packages:/home/user/microros_ws/firmware/dev_ws/install/ament_copyright/lib/python3.10/site-packages:/home/user/microros_ws/firmware/dev_ws/install/ament_pep257/lib/python3.10/site-packages:/home/user/microros_ws/firmware/dev_ws/install/ament_flake8/lib/python3.10/site-packages:/home/user/microros_ws/firmware/dev_ws/install/ament_lint/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/ament_clang_tidy build --build-base /home/user/microros_ws/firmware/dev_ws/build/ament_clang_tidy/build install --record /home/user/microros_ws/firmware/dev_ws/build/ament_clang_tidy/install.log --single-version-externally-managed install_data
