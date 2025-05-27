@@ -1,0 +1,238 @@
+[0.000000] (-) TimerEvent: {}
+[0.000378] (led_control_node) JobQueued: {'identifier': 'led_control_node', 'dependencies': OrderedDict()}
+[0.000446] (pong_reply_node) JobQueued: {'identifier': 'pong_reply_node', 'dependencies': OrderedDict()}
+[0.000499] (led_control_node) JobStarted: {'identifier': 'led_control_node'}
+[0.099374] (-) TimerEvent: {}
+[0.139210] (pong_reply_node) JobStarted: {'identifier': 'pong_reply_node'}
+[0.199487] (-) TimerEvent: {}
+[0.299791] (-) TimerEvent: {}
+[0.400100] (-) TimerEvent: {}
+[0.500426] (-) TimerEvent: {}
+[0.600786] (-) TimerEvent: {}
+[0.701088] (-) TimerEvent: {}
+[0.801645] (-) TimerEvent: {}
+[0.901981] (-) TimerEvent: {}
+[1.002341] (-) TimerEvent: {}
+[1.102691] (-) TimerEvent: {}
+[1.203066] (-) TimerEvent: {}
+[1.303381] (-) TimerEvent: {}
+[1.403709] (-) TimerEvent: {}
+[1.504025] (-) TimerEvent: {}
+[1.604355] (-) TimerEvent: {}
+[1.704684] (-) TimerEvent: {}
+[1.805003] (-) TimerEvent: {}
+[1.905348] (-) TimerEvent: {}
+[2.005695] (-) TimerEvent: {}
+[2.106034] (-) TimerEvent: {}
+[2.206380] (-) TimerEvent: {}
+[2.306717] (-) TimerEvent: {}
+[2.407043] (-) TimerEvent: {}
+[2.507368] (-) TimerEvent: {}
+[2.607704] (-) TimerEvent: {}
+[2.708032] (-) TimerEvent: {}
+[2.808362] (-) TimerEvent: {}
+[2.908695] (-) TimerEvent: {}
+[3.009015] (-) TimerEvent: {}
+[3.109334] (-) TimerEvent: {}
+[3.209703] (-) TimerEvent: {}
+[3.310005] (-) TimerEvent: {}
+[3.410315] (-) TimerEvent: {}
+[3.510645] (-) TimerEvent: {}
+[3.610970] (-) TimerEvent: {}
+[3.711310] (-) TimerEvent: {}
+[3.811683] (-) TimerEvent: {}
+[3.912003] (-) TimerEvent: {}
+[4.012318] (-) TimerEvent: {}
+[4.112651] (-) TimerEvent: {}
+[4.212976] (-) TimerEvent: {}
+[4.313294] (-) TimerEvent: {}
+[4.413620] (-) TimerEvent: {}
+[4.513935] (-) TimerEvent: {}
+[4.614254] (-) TimerEvent: {}
+[4.714575] (-) TimerEvent: {}
+[4.814905] (-) TimerEvent: {}
+[4.915209] (-) TimerEvent: {}
+[5.015537] (-) TimerEvent: {}
+[5.115851] (-) TimerEvent: {}
+[5.216162] (-) TimerEvent: {}
+[5.316479] (-) TimerEvent: {}
+[5.416799] (-) TimerEvent: {}
+[5.517123] (-) TimerEvent: {}
+[5.617437] (-) TimerEvent: {}
+[5.717767] (-) TimerEvent: {}
+[5.818078] (-) TimerEvent: {}
+[5.918385] (-) TimerEvent: {}
+[6.018702] (-) TimerEvent: {}
+[6.119041] (-) TimerEvent: {}
+[6.219399] (-) TimerEvent: {}
+[6.319714] (-) TimerEvent: {}
+[6.420039] (-) TimerEvent: {}
+[6.520354] (-) TimerEvent: {}
+[6.620663] (-) TimerEvent: {}
+[6.720976] (-) TimerEvent: {}
+[6.821294] (-) TimerEvent: {}
+[6.921617] (-) TimerEvent: {}
+[7.021921] (-) TimerEvent: {}
+[7.122235] (-) TimerEvent: {}
+[7.222541] (-) TimerEvent: {}
+[7.322863] (-) TimerEvent: {}
+[7.423189] (-) TimerEvent: {}
+[7.523506] (-) TimerEvent: {}
+[7.623821] (-) TimerEvent: {}
+[7.724153] (-) TimerEvent: {}
+[7.824476] (-) TimerEvent: {}
+[7.924799] (-) TimerEvent: {}
+[8.025134] (-) TimerEvent: {}
+[8.125445] (-) TimerEvent: {}
+[8.225792] (-) TimerEvent: {}
+[8.326116] (-) TimerEvent: {}
+[8.426441] (-) TimerEvent: {}
+[8.526754] (-) TimerEvent: {}
+[8.627077] (-) TimerEvent: {}
+[8.727397] (-) TimerEvent: {}
+[8.827704] (-) TimerEvent: {}
+[8.928009] (-) TimerEvent: {}
+[9.028317] (-) TimerEvent: {}
+[9.128629] (-) TimerEvent: {}
+[9.228938] (-) TimerEvent: {}
+[9.329255] (-) TimerEvent: {}
+[9.429568] (-) TimerEvent: {}
+[9.529909] (-) TimerEvent: {}
+[9.630221] (-) TimerEvent: {}
+[9.730536] (-) TimerEvent: {}
+[9.830848] (-) TimerEvent: {}
+[9.931155] (-) TimerEvent: {}
+[10.031455] (-) TimerEvent: {}
+[10.131774] (-) TimerEvent: {}
+[10.232091] (-) TimerEvent: {}
+[10.332392] (-) TimerEvent: {}
+[10.432706] (-) TimerEvent: {}
+[10.533016] (-) TimerEvent: {}
+[10.633316] (-) TimerEvent: {}
+[10.733619] (-) TimerEvent: {}
+[10.833944] (-) TimerEvent: {}
+[10.934269] (-) TimerEvent: {}
+[11.034595] (-) TimerEvent: {}
+[11.134924] (-) TimerEvent: {}
+[11.235237] (-) TimerEvent: {}
+[11.335536] (-) TimerEvent: {}
+[11.435843] (-) TimerEvent: {}
+[11.536155] (-) TimerEvent: {}
+[11.636463] (-) TimerEvent: {}
+[11.736769] (-) TimerEvent: {}
+[11.837078] (-) TimerEvent: {}
+[11.937391] (-) TimerEvent: {}
+[12.037716] (-) TimerEvent: {}
+[12.138024] (-) TimerEvent: {}
+[12.238334] (-) TimerEvent: {}
+[12.338634] (-) TimerEvent: {}
+[12.438953] (-) TimerEvent: {}
+[12.539269] (-) TimerEvent: {}
+[12.639574] (-) TimerEvent: {}
+[12.739885] (-) TimerEvent: {}
+[12.840198] (-) TimerEvent: {}
+[12.940518] (-) TimerEvent: {}
+[13.040826] (-) TimerEvent: {}
+[13.141136] (-) TimerEvent: {}
+[13.241455] (-) TimerEvent: {}
+[13.341787] (-) TimerEvent: {}
+[13.442088] (-) TimerEvent: {}
+[13.542400] (-) TimerEvent: {}
+[13.642707] (-) TimerEvent: {}
+[13.743017] (-) TimerEvent: {}
+[13.843327] (-) TimerEvent: {}
+[13.943633] (-) TimerEvent: {}
+[14.043946] (-) TimerEvent: {}
+[14.144255] (-) TimerEvent: {}
+[14.244576] (-) TimerEvent: {}
+[14.344890] (-) TimerEvent: {}
+[14.445194] (-) TimerEvent: {}
+[14.545494] (-) TimerEvent: {}
+[14.645806] (-) TimerEvent: {}
+[14.746110] (-) TimerEvent: {}
+[14.846404] (-) TimerEvent: {}
+[14.947146] (-) TimerEvent: {}
+[15.047448] (-) TimerEvent: {}
+[15.147767] (-) TimerEvent: {}
+[15.248088] (-) TimerEvent: {}
+[15.348408] (-) TimerEvent: {}
+[15.448717] (-) TimerEvent: {}
+[15.549037] (-) TimerEvent: {}
+[15.649358] (-) TimerEvent: {}
+[15.749681] (-) TimerEvent: {}
+[15.849991] (-) TimerEvent: {}
+[15.950293] (-) TimerEvent: {}
+[16.050589] (-) TimerEvent: {}
+[16.150952] (-) TimerEvent: {}
+[16.251312] (-) TimerEvent: {}
+[16.351615] (-) TimerEvent: {}
+[16.451920] (-) TimerEvent: {}
+[16.552229] (-) TimerEvent: {}
+[16.652539] (-) TimerEvent: {}
+[16.752845] (-) TimerEvent: {}
+[16.853167] (-) TimerEvent: {}
+[16.953470] (-) TimerEvent: {}
+[17.053808] (-) TimerEvent: {}
+[17.154119] (-) TimerEvent: {}
+[17.244753] (led_control_node) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/led_control_node', 'build', '--build-base', '/home/user/ros2_ws/build/led_control_node/build', 'install', '--record', '/home/user/ros2_ws/build/led_control_node/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/user/ros2_ws/src/led_control_node', 'env': {'ROS_VERSION': '2', 'NVIDIA_VISIBLE_DEVICES': 'all', 'GAZEBO_MASTER_URI': 'http://1_xterm:11345', 'ROS_PYTHON_VERSION': '3', 'HOSTNAME': '1_xterm', 'PWD': '/home/user/ros2_ws/build/led_control_node', 'PORT': '4000', 'NVIDIA_DRIVER_CAPABILITIES': 'all', 'ROS_IP': '', 'HOME': '/home/user', 'GAZEBO_PLUGIN_PATH': '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:', 'LANG': 'en_US.UTF-8', 'GAZEBO_MODEL_DATABASE_URI': 'http://models.gazebosim.org', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'AMENT_PREFIX_PATH': '/home/simulations/ros2_sims_ws/install/common_interfaces:/home/simulations/ros2_sims_ws/install/visualization_msgs:/home/simulations/ros2_sims_ws/install/rclrs_tests:/home/simulations/ros2_sims_ws/install/test_msgs:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_client_service:/home/simulations/ros2_sims_ws/install/example_interfaces:/home/simulations/ros2_sims_ws/install/action_msgs:/home/simulations/ros2_sims_ws/install/unique_identifier_msgs:/home/simulations/ros2_sims_ws/install/trajectory_msgs:/home/simulations/ros2_sims_ws/install/test_interface_files:/home/simulations/ros2_sims_ws/install/stereo_msgs:/home/simulations/ros2_sims_ws/install/std_srvs:/home/simulations/ros2_sims_ws/install/shape_msgs:/home/simulations/ros2_sims_ws/install/sensor_msgs_py:/home/simulations/ros2_sims_ws/install/sensor_msgs:/home/simulations/ros2_sims_ws/install/nav_msgs:/home/simulations/ros2_sims_ws/install/diagnostic_msgs:/home/simulations/ros2_sims_ws/install/geometry_msgs:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_pub_sub:/home/simulations/ros2_sims_ws/install/actionlib_msgs:/home/simulations/ros2_sims_ws/install/std_msgs:/home/simulations/ros2_sims_ws/install/statistics_msgs:/home/simulations/ros2_sims_ws/install/rosgraph_msgs:/home/simulations/ros2_sims_ws/install/examples_rclrs_message_demo:/home/simulations/ros2_sims_ws/install/rclrs_example_msgs:/home/simulations/ros2_sims_ws/install/rclrs:/home/simulations/ros2_sims_ws/install/composition_interfaces:/home/simulations/ros2_sims_ws/install/rcl_interfaces:/home/simulations/ros2_sims_ws/install/lifecycle_msgs:/home/simulations/ros2_sims_ws/install/builtin_interfaces:/home/simulations/ros2_sims_ws/install/rosidl_default_runtime:/home/simulations/ros2_sims_ws/install/rosidl_default_generators:/home/simulations/ros2_sims_ws/install/rosidl_generator_rs:/home/simulations/ros2_sims_ws/install/rosidl_runtime_rs:/home/user/ros2_ws/install/pong_reply_node:/home/user/ros2_ws/install/led_control_node:/opt/ros/humble', 'CMAKE_PREFIX_PATH': '/home/simulations/ros2_sims_ws/install/common_interfaces:/home/simulations/ros2_sims_ws/install/visualization_msgs:/home/simulations/ros2_sims_ws/install/test_msgs:/home/simulations/ros2_sims_ws/install/example_interfaces:/home/simulations/ros2_sims_ws/install/action_msgs:/home/simulations/ros2_sims_ws/install/unique_identifier_msgs:/home/simulations/ros2_sims_ws/install/trajectory_msgs:/home/simulations/ros2_sims_ws/install/test_interface_files:/home/simulations/ros2_sims_ws/install/stereo_msgs:/home/simulations/ros2_sims_ws/install/std_srvs:/home/simulations/ros2_sims_ws/install/shape_msgs:/home/simulations/ros2_sims_ws/install/sensor_msgs:/home/simulations/ros2_sims_ws/install/nav_msgs:/home/simulations/ros2_sims_ws/install/diagnostic_msgs:/home/simulations/ros2_sims_ws/install/geometry_msgs:/home/simulations/ros2_sims_ws/install/actionlib_msgs:/home/simulations/ros2_sims_ws/install/std_msgs:/home/simulations/ros2_sims_ws/install/statistics_msgs:/home/simulations/ros2_sims_ws/install/rosgraph_msgs:/home/simulations/ros2_sims_ws/install/rclrs_example_msgs:/home/simulations/ros2_sims_ws/install/composition_interfaces:/home/simulations/ros2_sims_ws/install/rcl_interfaces:/home/simulations/ros2_sims_ws/install/lifecycle_msgs:/home/simulations/ros2_sims_ws/install/builtin_interfaces:/home/simulations/ros2_sims_ws/install/rosidl_default_runtime:/home/simulations/ros2_sims_ws/install/rosidl_default_generators:/home/simulations/ros2_sims_ws/install/rosidl_generator_rs', 'GAZEBO_RESOURCE_PATH': '/usr/share/gazebo-11:/usr/share/gazebo-11:/usr/share/gazebo', 'COLCON_PREFIX_PATH': '/home/simulations/ros2_sims_ws/install:/home/user/ros2_ws/install', 'GAZEBO_MASTER_PORT': '11345', 'NVM_DIR': '/usr/local/share/shell/.nvm', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'PYTHONPATH': '/home/user/ros2_ws/build/led_control_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/ros2_ws/install/led_control_node/lib/python3.10/site-packages:/home/simulations/ros2_sims_ws/install/visualization_msgs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/test_msgs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/example_interfaces/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/action_msgs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/unique_identifier_msgs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/trajectory_msgs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/stereo_msgs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/std_srvs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/shape_msgs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/sensor_msgs_py/lib/python3.10/site-packages:/home/simulations/ros2_sims_ws/install/sensor_msgs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/nav_msgs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/geometry_msgs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/actionlib_msgs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/std_msgs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/statistics_msgs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/rosgraph_msgs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/rclrs_example_msgs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/composition_interfaces/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/rcl_interfaces/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/lifecycle_msgs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/rosidl_generator_rs/local/lib/python3.10/dist-packages:/home/user/ros2_ws/install/pong_reply_node/lib/python3.10/site-packages:/home/user/ros2_ws/install/led_control_node/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages:/home/simulations/public_sim_ws/src/all/ros_basics_examples/python_course_class:/home/simulations/public_sim_ws/src/ros_basics_examples/python_course_class:/home/simulations/public_sim_ws/src/all/kinematics_course_utils/kinematics', 'COLCON': '1', 'TERM': 'xterm-color', 'LESSOPEN': '| /usr/bin/lesspipe %s', 'SNAPCRAFT_BUILD_ENVIRONMENT': 'host', 'GAZEBO_MASTER_HOSTNAME': '1_xterm', 'DISPLAY': ':1', 'SHLVL': '2', 'NVM_CD_FLAGS': '', 'ROS_MASTER_URI': 'http://1_xterm:11311', 'ROS_HOSTNAME': '1_xterm', 'LD_LIBRARY_PATH': '/usr/local/cuda-10.2/lib64:/home/user/.catkin_ws_python3/src/TensorRT-7.0.0.11/lib:/home/simulations/ros2_sims_ws/install/visualization_msgs/lib:/home/simulations/ros2_sims_ws/install/test_msgs/lib:/home/simulations/ros2_sims_ws/install/example_interfaces/lib:/home/simulations/ros2_sims_ws/install/action_msgs/lib:/home/simulations/ros2_sims_ws/install/unique_identifier_msgs/lib:/home/simulations/ros2_sims_ws/install/trajectory_msgs/lib:/home/simulations/ros2_sims_ws/install/stereo_msgs/lib:/home/simulations/ros2_sims_ws/install/std_srvs/lib:/home/simulations/ros2_sims_ws/install/shape_msgs/lib:/home/simulations/ros2_sims_ws/install/sensor_msgs/lib:/home/simulations/ros2_sims_ws/install/nav_msgs/lib:/home/simulations/ros2_sims_ws/install/diagnostic_msgs/lib:/home/simulations/ros2_sims_ws/install/geometry_msgs/lib:/home/simulations/ros2_sims_ws/install/actionlib_msgs/lib:/home/simulations/ros2_sims_ws/install/std_msgs/lib:/home/simulations/ros2_sims_ws/install/statistics_msgs/lib:/home/simulations/ros2_sims_ws/install/rosgraph_msgs/lib:/home/simulations/ros2_sims_ws/install/rclrs_example_msgs/lib:/home/simulations/ros2_sims_ws/install/composition_interfaces/lib:/home/simulations/ros2_sims_ws/install/rcl_interfaces/lib:/home/simulations/ros2_sims_ws/install/lifecycle_msgs/lib:/home/simulations/ros2_sims_ws/install/builtin_interfaces/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/local/cuda-10.2/lib64:/home/user/.catkin_ws_python3/src/TensorRT-7.0.0.11/lib::/usr/lib/x86_64-linux-gnu/gazebo-11/plugins::/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:', 'ROS_LOCALHOST_ONLY': '0', 'SLOT_SHELL_START_ID': '917290', 'SLOT_PREFIX': '2eba2d7c-2b75-42a0-8963-5510559a2dbc', 'LC_ALL': 'C', 'SOURCE_ROS1_WS': '', 'GAZEBO_MODEL_PATH': '/usr/share/gazebo-11/models:/usr/share/gazebo-11/models:/usr/share/gazebo-9/models:/usr/share/gazebo/models_robox', 'SLOT_JENKINS_PORT': '25024', 'SLOT_SYSTEMD': 'False', 'PATH': '/home/user/.local/bin:/home/user/bin:/home/user/.local/bin:/home/user/bin:/opt/ros/humble/bin:/usr/local/share/shell/.nvm/versions/node/v8.17.0/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/home/user/.cargo/bin:/home/user/.cargo/bin', 'SELECTED_ROS_DISTRO': 'humble', 'NVM_BIN': '/usr/local/share/shell/.nvm/versions/node/v8.17.0/bin', 'NODE_VERSION': 'v8.17.0', 'DEBIAN_FRONTEND': 'noninteractive', 'ROS_DISTRO': 'humble', 'GAZEBO_VERBOSE': '0', 'OGRE_RESOURCE_PATH': '/usr/lib/x86_64-linux-gnu/OGRE-1.9.0', 'OLDPWD': '/home/user', 'SOURCE_ROS2_WS': 'True', 'SLOT_ROSBRIDGE_PORT': '20001', '_': '/usr/bin/env'}, 'shell': False}
+[17.367622] (-) TimerEvent: {}
+[17.371954] (pong_reply_node) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/pong_reply_node', 'build', '--build-base', '/home/user/ros2_ws/build/pong_reply_node/build', 'install', '--record', '/home/user/ros2_ws/build/pong_reply_node/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/user/ros2_ws/src/pong_reply_node', 'env': {'ROS_VERSION': '2', 'NVIDIA_VISIBLE_DEVICES': 'all', 'GAZEBO_MASTER_URI': 'http://1_xterm:11345', 'ROS_PYTHON_VERSION': '3', 'HOSTNAME': '1_xterm', 'PWD': '/home/user/ros2_ws/build/pong_reply_node', 'PORT': '4000', 'NVIDIA_DRIVER_CAPABILITIES': 'all', 'ROS_IP': '', 'HOME': '/home/user', 'GAZEBO_PLUGIN_PATH': '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:', 'LANG': 'en_US.UTF-8', 'GAZEBO_MODEL_DATABASE_URI': 'http://models.gazebosim.org', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'AMENT_PREFIX_PATH': '/home/simulations/ros2_sims_ws/install/common_interfaces:/home/simulations/ros2_sims_ws/install/visualization_msgs:/home/simulations/ros2_sims_ws/install/rclrs_tests:/home/simulations/ros2_sims_ws/install/test_msgs:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_client_service:/home/simulations/ros2_sims_ws/install/example_interfaces:/home/simulations/ros2_sims_ws/install/action_msgs:/home/simulations/ros2_sims_ws/install/unique_identifier_msgs:/home/simulations/ros2_sims_ws/install/trajectory_msgs:/home/simulations/ros2_sims_ws/install/test_interface_files:/home/simulations/ros2_sims_ws/install/stereo_msgs:/home/simulations/ros2_sims_ws/install/std_srvs:/home/simulations/ros2_sims_ws/install/shape_msgs:/home/simulations/ros2_sims_ws/install/sensor_msgs_py:/home/simulations/ros2_sims_ws/install/sensor_msgs:/home/simulations/ros2_sims_ws/install/nav_msgs:/home/simulations/ros2_sims_ws/install/diagnostic_msgs:/home/simulations/ros2_sims_ws/install/geometry_msgs:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_pub_sub:/home/simulations/ros2_sims_ws/install/actionlib_msgs:/home/simulations/ros2_sims_ws/install/std_msgs:/home/simulations/ros2_sims_ws/install/statistics_msgs:/home/simulations/ros2_sims_ws/install/rosgraph_msgs:/home/simulations/ros2_sims_ws/install/examples_rclrs_message_demo:/home/simulations/ros2_sims_ws/install/rclrs_example_msgs:/home/simulations/ros2_sims_ws/install/rclrs:/home/simulations/ros2_sims_ws/install/composition_interfaces:/home/simulations/ros2_sims_ws/install/rcl_interfaces:/home/simulations/ros2_sims_ws/install/lifecycle_msgs:/home/simulations/ros2_sims_ws/install/builtin_interfaces:/home/simulations/ros2_sims_ws/install/rosidl_default_runtime:/home/simulations/ros2_sims_ws/install/rosidl_default_generators:/home/simulations/ros2_sims_ws/install/rosidl_generator_rs:/home/simulations/ros2_sims_ws/install/rosidl_runtime_rs:/home/user/ros2_ws/install/pong_reply_node:/home/user/ros2_ws/install/led_control_node:/opt/ros/humble', 'CMAKE_PREFIX_PATH': '/home/simulations/ros2_sims_ws/install/common_interfaces:/home/simulations/ros2_sims_ws/install/visualization_msgs:/home/simulations/ros2_sims_ws/install/test_msgs:/home/simulations/ros2_sims_ws/install/example_interfaces:/home/simulations/ros2_sims_ws/install/action_msgs:/home/simulations/ros2_sims_ws/install/unique_identifier_msgs:/home/simulations/ros2_sims_ws/install/trajectory_msgs:/home/simulations/ros2_sims_ws/install/test_interface_files:/home/simulations/ros2_sims_ws/install/stereo_msgs:/home/simulations/ros2_sims_ws/install/std_srvs:/home/simulations/ros2_sims_ws/install/shape_msgs:/home/simulations/ros2_sims_ws/install/sensor_msgs:/home/simulations/ros2_sims_ws/install/nav_msgs:/home/simulations/ros2_sims_ws/install/diagnostic_msgs:/home/simulations/ros2_sims_ws/install/geometry_msgs:/home/simulations/ros2_sims_ws/install/actionlib_msgs:/home/simulations/ros2_sims_ws/install/std_msgs:/home/simulations/ros2_sims_ws/install/statistics_msgs:/home/simulations/ros2_sims_ws/install/rosgraph_msgs:/home/simulations/ros2_sims_ws/install/rclrs_example_msgs:/home/simulations/ros2_sims_ws/install/composition_interfaces:/home/simulations/ros2_sims_ws/install/rcl_interfaces:/home/simulations/ros2_sims_ws/install/lifecycle_msgs:/home/simulations/ros2_sims_ws/install/builtin_interfaces:/home/simulations/ros2_sims_ws/install/rosidl_default_runtime:/home/simulations/ros2_sims_ws/install/rosidl_default_generators:/home/simulations/ros2_sims_ws/install/rosidl_generator_rs', 'GAZEBO_RESOURCE_PATH': '/usr/share/gazebo-11:/usr/share/gazebo-11:/usr/share/gazebo', 'COLCON_PREFIX_PATH': '/home/simulations/ros2_sims_ws/install:/home/user/ros2_ws/install', 'GAZEBO_MASTER_PORT': '11345', 'NVM_DIR': '/usr/local/share/shell/.nvm', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'PYTHONPATH': '/home/user/ros2_ws/build/pong_reply_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/ros2_ws/install/pong_reply_node/lib/python3.10/site-packages:/home/simulations/ros2_sims_ws/install/visualization_msgs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/test_msgs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/example_interfaces/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/action_msgs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/unique_identifier_msgs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/trajectory_msgs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/stereo_msgs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/std_srvs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/shape_msgs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/sensor_msgs_py/lib/python3.10/site-packages:/home/simulations/ros2_sims_ws/install/sensor_msgs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/nav_msgs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/diagnostic_msgs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/geometry_msgs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/actionlib_msgs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/std_msgs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/statistics_msgs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/rosgraph_msgs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/rclrs_example_msgs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/composition_interfaces/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/rcl_interfaces/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/lifecycle_msgs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/builtin_interfaces/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/rosidl_generator_rs/local/lib/python3.10/dist-packages:/home/user/ros2_ws/install/pong_reply_node/lib/python3.10/site-packages:/home/user/ros2_ws/install/led_control_node/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages:/home/simulations/public_sim_ws/src/all/ros_basics_examples/python_course_class:/home/simulations/public_sim_ws/src/ros_basics_examples/python_course_class:/home/simulations/public_sim_ws/src/all/kinematics_course_utils/kinematics', 'COLCON': '1', 'TERM': 'xterm-color', 'LESSOPEN': '| /usr/bin/lesspipe %s', 'SNAPCRAFT_BUILD_ENVIRONMENT': 'host', 'GAZEBO_MASTER_HOSTNAME': '1_xterm', 'DISPLAY': ':1', 'SHLVL': '2', 'NVM_CD_FLAGS': '', 'ROS_MASTER_URI': 'http://1_xterm:11311', 'ROS_HOSTNAME': '1_xterm', 'LD_LIBRARY_PATH': '/usr/local/cuda-10.2/lib64:/home/user/.catkin_ws_python3/src/TensorRT-7.0.0.11/lib:/home/simulations/ros2_sims_ws/install/visualization_msgs/lib:/home/simulations/ros2_sims_ws/install/test_msgs/lib:/home/simulations/ros2_sims_ws/install/example_interfaces/lib:/home/simulations/ros2_sims_ws/install/action_msgs/lib:/home/simulations/ros2_sims_ws/install/unique_identifier_msgs/lib:/home/simulations/ros2_sims_ws/install/trajectory_msgs/lib:/home/simulations/ros2_sims_ws/install/stereo_msgs/lib:/home/simulations/ros2_sims_ws/install/std_srvs/lib:/home/simulations/ros2_sims_ws/install/shape_msgs/lib:/home/simulations/ros2_sims_ws/install/sensor_msgs/lib:/home/simulations/ros2_sims_ws/install/nav_msgs/lib:/home/simulations/ros2_sims_ws/install/diagnostic_msgs/lib:/home/simulations/ros2_sims_ws/install/geometry_msgs/lib:/home/simulations/ros2_sims_ws/install/actionlib_msgs/lib:/home/simulations/ros2_sims_ws/install/std_msgs/lib:/home/simulations/ros2_sims_ws/install/statistics_msgs/lib:/home/simulations/ros2_sims_ws/install/rosgraph_msgs/lib:/home/simulations/ros2_sims_ws/install/rclrs_example_msgs/lib:/home/simulations/ros2_sims_ws/install/composition_interfaces/lib:/home/simulations/ros2_sims_ws/install/rcl_interfaces/lib:/home/simulations/ros2_sims_ws/install/lifecycle_msgs/lib:/home/simulations/ros2_sims_ws/install/builtin_interfaces/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/local/cuda-10.2/lib64:/home/user/.catkin_ws_python3/src/TensorRT-7.0.0.11/lib::/usr/lib/x86_64-linux-gnu/gazebo-11/plugins::/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:', 'ROS_LOCALHOST_ONLY': '0', 'SLOT_SHELL_START_ID': '917290', 'SLOT_PREFIX': '2eba2d7c-2b75-42a0-8963-5510559a2dbc', 'LC_ALL': 'C', 'SOURCE_ROS1_WS': '', 'GAZEBO_MODEL_PATH': '/usr/share/gazebo-11/models:/usr/share/gazebo-11/models:/usr/share/gazebo-9/models:/usr/share/gazebo/models_robox', 'SLOT_JENKINS_PORT': '25024', 'SLOT_SYSTEMD': 'False', 'PATH': '/home/user/.local/bin:/home/user/bin:/home/user/.local/bin:/home/user/bin:/opt/ros/humble/bin:/usr/local/share/shell/.nvm/versions/node/v8.17.0/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/home/user/.cargo/bin:/home/user/.cargo/bin', 'SELECTED_ROS_DISTRO': 'humble', 'NVM_BIN': '/usr/local/share/shell/.nvm/versions/node/v8.17.0/bin', 'NODE_VERSION': 'v8.17.0', 'DEBIAN_FRONTEND': 'noninteractive', 'ROS_DISTRO': 'humble', 'GAZEBO_VERBOSE': '0', 'OGRE_RESOURCE_PATH': '/usr/lib/x86_64-linux-gnu/OGRE-1.9.0', 'OLDPWD': '/home/user', 'SOURCE_ROS2_WS': 'True', 'SLOT_ROSBRIDGE_PORT': '20001', '_': '/usr/bin/env'}, 'shell': False}
+[17.467771] (-) TimerEvent: {}
+[17.566783] (pong_reply_node) StderrLine: {'line': b"/usr/local/lib/python3.10/dist-packages/setuptools/_distutils/dist.py:289: UserWarning: Unknown distribution option: 'tests_require'\n"}
+[17.567106] (pong_reply_node) StderrLine: {'line': b'  warnings.warn(msg)\n'}
+[17.567249] (led_control_node) StderrLine: {'line': b"/usr/local/lib/python3.10/dist-packages/setuptools/_distutils/dist.py:289: UserWarning: Unknown distribution option: 'tests_require'\n"}
+[17.567398] (led_control_node) StderrLine: {'line': b'  warnings.warn(msg)\n'}
+[17.567847] (-) TimerEvent: {}
+[17.668141] (-) TimerEvent: {}
+[17.687644] (pong_reply_node) StdoutLine: {'line': b'running egg_info\n'}
+[17.688351] (led_control_node) StdoutLine: {'line': b'running egg_info\n'}
+[17.707903] (led_control_node) StdoutLine: {'line': b'writing ../../build/led_control_node/led_control_node.egg-info/PKG-INFO\n'}
+[17.708165] (pong_reply_node) StdoutLine: {'line': b'writing ../../build/pong_reply_node/pong_reply_node.egg-info/PKG-INFO\n'}
+[17.708319] (pong_reply_node) StdoutLine: {'line': b'writing dependency_links to ../../build/pong_reply_node/pong_reply_node.egg-info/dependency_links.txt\n'}
+[17.708467] (led_control_node) StdoutLine: {'line': b'writing dependency_links to ../../build/led_control_node/led_control_node.egg-info/dependency_links.txt\n'}
+[17.709201] (pong_reply_node) StdoutLine: {'line': b'writing entry points to ../../build/pong_reply_node/pong_reply_node.egg-info/entry_points.txt\n'}
+[17.709376] (led_control_node) StdoutLine: {'line': b'writing entry points to ../../build/led_control_node/led_control_node.egg-info/entry_points.txt\n'}
+[17.710141] (pong_reply_node) StdoutLine: {'line': b'writing requirements to ../../build/pong_reply_node/pong_reply_node.egg-info/requires.txt\n'}
+[17.710254] (led_control_node) StdoutLine: {'line': b'writing requirements to ../../build/led_control_node/led_control_node.egg-info/requires.txt\n'}
+[17.710956] (pong_reply_node) StdoutLine: {'line': b'writing top-level names to ../../build/pong_reply_node/pong_reply_node.egg-info/top_level.txt\n'}
+[17.711055] (led_control_node) StdoutLine: {'line': b'writing top-level names to ../../build/led_control_node/led_control_node.egg-info/top_level.txt\n'}
+[17.753615] (led_control_node) StdoutLine: {'line': b"reading manifest file '../../build/led_control_node/led_control_node.egg-info/SOURCES.txt'\n"}
+[17.754444] (pong_reply_node) StdoutLine: {'line': b"reading manifest file '../../build/pong_reply_node/pong_reply_node.egg-info/SOURCES.txt'\n"}
+[17.754938] (led_control_node) StdoutLine: {'line': b"writing manifest file '../../build/led_control_node/led_control_node.egg-info/SOURCES.txt'\n"}
+[17.755099] (led_control_node) StdoutLine: {'line': b'running build\n'}
+[17.755206] (led_control_node) StdoutLine: {'line': b'running build_py\n'}
+[17.755378] (led_control_node) StdoutLine: {'line': b'copying led_control_node/led_control.py -> /home/user/ros2_ws/build/led_control_node/build/lib/led_control_node\n'}
+[17.755821] (led_control_node) StdoutLine: {'line': b'running install\n'}
+[17.755962] (pong_reply_node) StdoutLine: {'line': b"writing manifest file '../../build/pong_reply_node/pong_reply_node.egg-info/SOURCES.txt'\n"}
+[17.756177] (pong_reply_node) StdoutLine: {'line': b'running build\n'}
+[17.756273] (pong_reply_node) StdoutLine: {'line': b'running build_py\n'}
+[17.756613] (pong_reply_node) StdoutLine: {'line': b'copying pong_reply_node/pong.py -> /home/user/ros2_ws/build/pong_reply_node/build/lib/pong_reply_node\n'}
+[17.756999] (pong_reply_node) StdoutLine: {'line': b'running install\n'}
+[17.760745] (led_control_node) StdoutLine: {'line': b'running install_lib\n'}
+[17.761675] (pong_reply_node) StdoutLine: {'line': b'running install_lib\n'}
+[17.768205] (-) TimerEvent: {}
+[17.780876] (led_control_node) StdoutLine: {'line': b'copying /home/user/ros2_ws/build/led_control_node/build/lib/led_control_node/led_control.py -> /home/user/ros2_ws/install/led_control_node/lib/python3.10/site-packages/led_control_node\n'}
+[17.781848] (led_control_node) StdoutLine: {'line': b'byte-compiling /home/user/ros2_ws/install/led_control_node/lib/python3.10/site-packages/led_control_node/led_control.py to led_control.cpython-310.pyc\n'}
+[17.782743] (pong_reply_node) StdoutLine: {'line': b'copying /home/user/ros2_ws/build/pong_reply_node/build/lib/pong_reply_node/pong.py -> /home/user/ros2_ws/install/pong_reply_node/lib/python3.10/site-packages/pong_reply_node\n'}
+[17.782832] (led_control_node) StdoutLine: {'line': b'running install_data\n'}
+[17.782950] (led_control_node) StdoutLine: {'line': b'running install_egg_info\n'}
+[17.783538] (pong_reply_node) StdoutLine: {'line': b'byte-compiling /home/user/ros2_ws/install/pong_reply_node/lib/python3.10/site-packages/pong_reply_node/pong.py to pong.cpython-310.pyc\n'}
+[17.784091] (pong_reply_node) StdoutLine: {'line': b'running install_data\n'}
+[17.784459] (pong_reply_node) StdoutLine: {'line': b'running install_egg_info\n'}
+[17.804508] (led_control_node) StdoutLine: {'line': b"removing '/home/user/ros2_ws/install/led_control_node/lib/python3.10/site-packages/led_control_node-0.0.0-py3.10.egg-info' (and everything under it)\n"}
+[17.804791] (led_control_node) StdoutLine: {'line': b'Copying ../../build/led_control_node/led_control_node.egg-info to /home/user/ros2_ws/install/led_control_node/lib/python3.10/site-packages/led_control_node-0.0.0-py3.10.egg-info\n'}
+[17.805668] (led_control_node) StdoutLine: {'line': b'running install_scripts\n'}
+[17.806865] (pong_reply_node) StdoutLine: {'line': b"removing '/home/user/ros2_ws/install/pong_reply_node/lib/python3.10/site-packages/pong_reply_node-0.0.0-py3.10.egg-info' (and everything under it)\n"}
+[17.807246] (pong_reply_node) StdoutLine: {'line': b'Copying ../../build/pong_reply_node/pong_reply_node.egg-info to /home/user/ros2_ws/install/pong_reply_node/lib/python3.10/site-packages/pong_reply_node-0.0.0-py3.10.egg-info\n'}
+[17.808093] (pong_reply_node) StdoutLine: {'line': b'running install_scripts\n'}
+[17.868318] (-) TimerEvent: {}
+[17.968632] (-) TimerEvent: {}
+[17.981281] (led_control_node) StdoutLine: {'line': b'Installing led_control script to /home/user/ros2_ws/install/led_control_node/lib/led_control_node\n'}
+[17.981982] (led_control_node) StdoutLine: {'line': b"writing list of installed files to '/home/user/ros2_ws/build/led_control_node/install.log'\n"}
+[17.986996] (pong_reply_node) StdoutLine: {'line': b'Installing pong script to /home/user/ros2_ws/install/pong_reply_node/lib/pong_reply_node\n'}
+[17.987410] (pong_reply_node) StdoutLine: {'line': b"writing list of installed files to '/home/user/ros2_ws/build/pong_reply_node/install.log'\n"}
+[18.014361] (led_control_node) CommandEnded: {'returncode': 0}
+[18.043416] (led_control_node) JobEnded: {'identifier': 'led_control_node', 'rc': 0}
+[18.045526] (pong_reply_node) CommandEnded: {'returncode': 0}
+[18.051539] (pong_reply_node) JobEnded: {'identifier': 'pong_reply_node', 'rc': 0}
+[18.052508] (-) EventReactorShutdown: {}
