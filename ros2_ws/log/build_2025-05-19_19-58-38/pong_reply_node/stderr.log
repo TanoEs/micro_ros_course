@@ -1,0 +1,7 @@
+/usr/local/lib/python3.10/dist-packages/setuptools/_distutils/dist.py:289: UserWarning: Unknown distribution option: 'tests_require'
+  warnings.warn(msg)
+  File "/home/user/ros2_ws/install/pong_reply_node/lib/python3.10/site-packages/pong_reply_node/pong.py", line 16
+    response.data = f'pong  #{self.pong_count} to \"{msg.data}\""
+                    ^
+SyntaxError: unterminated string literal (detected at line 16)
+

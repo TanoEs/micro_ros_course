@@ -1,0 +1,190 @@
+[1.318s] DEBUG:colcon:Command line arguments: ['/usr/bin/colcon', 'build']
+[1.319s] DEBUG:colcon:Parsed command line arguments: Namespace(log_base=None, log_level=None, verb_name='build', build_base='build', install_base='install', merge_install=False, symlink_install=False, test_result_base=None, continue_on_error=False, executor='parallel', parallel_workers=8, event_handlers=None, ignore_user_meta=False, metas=['./colcon.meta'], base_paths=['.'], packages_ignore=None, packages_ignore_regex=None, paths=None, packages_up_to=None, packages_up_to_regex=None, packages_above=None, packages_above_and_dependencies=None, packages_above_depth=None, packages_select_by_dep=None, packages_skip_by_dep=None, packages_skip_up_to=None, packages_select_build_failed=False, packages_skip_build_finished=False, packages_select_test_failures=False, packages_skip_test_passed=False, packages_select=None, packages_skip=None, packages_select_regex=None, packages_skip_regex=None, packages_start=None, packages_end=None, lookup_in_workspace=False, cargo_args=None, clean_build=False, cmake_args=None, cmake_target=None, cmake_target_skip_unavailable=False, cmake_clean_cache=False, cmake_clean_first=False, cmake_force_configure=False, ament_cmake_args=None, catkin_cmake_args=None, catkin_skip_building_tests=False, mixin_files=None, mixin=None, verb_parser=<colcon_mixin.mixin.mixin_argument.MixinArgumentDecorator object at 0x7f6af3ab0d90>, verb_extension=<colcon_core.verb.build.BuildVerb object at 0x7f6af3ab0790>, main=<bound method BuildVerb.main of <colcon_core.verb.build.BuildVerb object at 0x7f6af3ab0790>>, mixin_verb=('build',))
+[2.796s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) check parameters
+[2.797s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) check parameters
+[2.797s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) check parameters
+[2.797s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) check parameters
+[2.797s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) discover
+[2.797s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) discover
+[2.797s] INFO:colcon.colcon_core.package_discovery:Crawling recursively for packages in '/home/user/ros2_ws'
+[2.797s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['ignore', 'ignore_ament_install']
+[2.797s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ignore'
+[2.797s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ignore_ament_install'
+[2.797s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['colcon_pkg']
+[2.797s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'colcon_pkg'
+[2.797s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['colcon_meta']
+[2.797s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'colcon_meta'
+[2.797s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['ament_cargo']
+[2.797s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ament_cargo'
+[2.797s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['ros']
+[2.797s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ros'
+[2.814s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['cargo', 'cmake', 'python']
+[2.814s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'cargo'
+[2.814s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'cmake'
+[2.814s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'python'
+[2.814s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['python_setup_py']
+[2.814s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'python_setup_py'
+[2.814s] Level 1:colcon.colcon_core.package_identification:_identify(build) by extensions ['ignore', 'ignore_ament_install']
+[2.815s] Level 1:colcon.colcon_core.package_identification:_identify(build) by extension 'ignore'
+[2.815s] Level 1:colcon.colcon_core.package_identification:_identify(build) ignored
+[2.815s] Level 1:colcon.colcon_core.package_identification:_identify(install) by extensions ['ignore', 'ignore_ament_install']
+[2.815s] Level 1:colcon.colcon_core.package_identification:_identify(install) by extension 'ignore'
+[2.815s] Level 1:colcon.colcon_core.package_identification:_identify(install) ignored
+[2.815s] Level 1:colcon.colcon_core.package_identification:_identify(log) by extensions ['ignore', 'ignore_ament_install']
+[2.815s] Level 1:colcon.colcon_core.package_identification:_identify(log) by extension 'ignore'
+[2.815s] Level 1:colcon.colcon_core.package_identification:_identify(log) ignored
+[2.815s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['ignore', 'ignore_ament_install']
+[2.815s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'ignore'
+[2.815s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'ignore_ament_install'
+[2.815s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['colcon_pkg']
+[2.815s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'colcon_pkg'
+[2.815s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['colcon_meta']
+[2.815s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'colcon_meta'
+[2.815s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['ament_cargo']
+[2.815s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'ament_cargo'
+[2.815s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['ros']
+[2.815s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'ros'
+[2.816s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['cargo', 'cmake', 'python']
+[2.816s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'cargo'
+[2.816s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'cmake'
+[2.816s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'python'
+[2.816s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['python_setup_py']
+[2.816s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'python_setup_py'
+[2.816s] Level 1:colcon.colcon_core.package_identification:_identify(src/led_control_node) by extensions ['ignore', 'ignore_ament_install']
+[2.816s] Level 1:colcon.colcon_core.package_identification:_identify(src/led_control_node) by extension 'ignore'
+[2.816s] Level 1:colcon.colcon_core.package_identification:_identify(src/led_control_node) by extension 'ignore_ament_install'
+[2.816s] Level 1:colcon.colcon_core.package_identification:_identify(src/led_control_node) by extensions ['colcon_pkg']
+[2.816s] Level 1:colcon.colcon_core.package_identification:_identify(src/led_control_node) by extension 'colcon_pkg'
+[2.816s] Level 1:colcon.colcon_core.package_identification:_identify(src/led_control_node) by extensions ['colcon_meta']
+[2.816s] Level 1:colcon.colcon_core.package_identification:_identify(src/led_control_node) by extension 'colcon_meta'
+[2.816s] Level 1:colcon.colcon_core.package_identification:_identify(src/led_control_node) by extensions ['ament_cargo']
+[2.816s] Level 1:colcon.colcon_core.package_identification:_identify(src/led_control_node) by extension 'ament_cargo'
+[2.816s] Level 1:colcon.colcon_core.package_identification:_identify(src/led_control_node) by extensions ['ros']
+[2.816s] Level 1:colcon.colcon_core.package_identification:_identify(src/led_control_node) by extension 'ros'
+[2.821s] DEBUG:colcon.colcon_core.package_identification:Package 'src/led_control_node' with type 'ros.ament_python' and name 'led_control_node'
+[2.821s] Level 1:colcon.colcon_core.package_identification:_identify(src/pong_reply_node) by extensions ['ignore', 'ignore_ament_install']
+[2.822s] Level 1:colcon.colcon_core.package_identification:_identify(src/pong_reply_node) by extension 'ignore'
+[2.822s] Level 1:colcon.colcon_core.package_identification:_identify(src/pong_reply_node) by extension 'ignore_ament_install'
+[2.822s] Level 1:colcon.colcon_core.package_identification:_identify(src/pong_reply_node) by extensions ['colcon_pkg']
+[2.822s] Level 1:colcon.colcon_core.package_identification:_identify(src/pong_reply_node) by extension 'colcon_pkg'
+[2.822s] Level 1:colcon.colcon_core.package_identification:_identify(src/pong_reply_node) by extensions ['colcon_meta']
+[2.822s] Level 1:colcon.colcon_core.package_identification:_identify(src/pong_reply_node) by extension 'colcon_meta'
+[2.822s] Level 1:colcon.colcon_core.package_identification:_identify(src/pong_reply_node) by extensions ['ament_cargo']
+[2.822s] Level 1:colcon.colcon_core.package_identification:_identify(src/pong_reply_node) by extension 'ament_cargo'
+[2.822s] Level 1:colcon.colcon_core.package_identification:_identify(src/pong_reply_node) by extensions ['ros']
+[2.822s] Level 1:colcon.colcon_core.package_identification:_identify(src/pong_reply_node) by extension 'ros'
+[2.823s] DEBUG:colcon.colcon_core.package_identification:Package 'src/pong_reply_node' with type 'ros.ament_python' and name 'pong_reply_node'
+[2.823s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) using defaults
+[2.823s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) discover
+[2.823s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) using defaults
+[2.823s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) discover
+[2.823s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) using defaults
+[3.340s] Level 5:colcon.colcon_core.verb:set package 'led_control_node' build argument 'lookup_in_workspace' from command line to 'False'
+[3.340s] Level 5:colcon.colcon_core.verb:set package 'led_control_node' build argument 'cargo_args' from command line to 'None'
+[3.340s] Level 5:colcon.colcon_core.verb:set package 'led_control_node' build argument 'clean_build' from command line to 'False'
+[3.340s] Level 5:colcon.colcon_core.verb:set package 'led_control_node' build argument 'cmake_args' from command line to 'None'
+[3.340s] Level 5:colcon.colcon_core.verb:set package 'led_control_node' build argument 'cmake_target' from command line to 'None'
+[3.340s] Level 5:colcon.colcon_core.verb:set package 'led_control_node' build argument 'cmake_target_skip_unavailable' from command line to 'False'
+[3.340s] Level 5:colcon.colcon_core.verb:set package 'led_control_node' build argument 'cmake_clean_cache' from command line to 'False'
+[3.340s] Level 5:colcon.colcon_core.verb:set package 'led_control_node' build argument 'cmake_clean_first' from command line to 'False'
+[3.340s] Level 5:colcon.colcon_core.verb:set package 'led_control_node' build argument 'cmake_force_configure' from command line to 'False'
+[3.340s] Level 5:colcon.colcon_core.verb:set package 'led_control_node' build argument 'ament_cmake_args' from command line to 'None'
+[3.340s] Level 5:colcon.colcon_core.verb:set package 'led_control_node' build argument 'catkin_cmake_args' from command line to 'None'
+[3.340s] Level 5:colcon.colcon_core.verb:set package 'led_control_node' build argument 'catkin_skip_building_tests' from command line to 'False'
+[3.340s] DEBUG:colcon.colcon_core.verb:Building package 'led_control_node' with the following arguments: {'ament_cmake_args': None, 'build_base': '/home/user/ros2_ws/build/led_control_node', 'cargo_args': None, 'catkin_cmake_args': None, 'catkin_skip_building_tests': False, 'clean_build': False, 'cmake_args': None, 'cmake_clean_cache': False, 'cmake_clean_first': False, 'cmake_force_configure': False, 'cmake_target': None, 'cmake_target_skip_unavailable': False, 'install_base': '/home/user/ros2_ws/install/led_control_node', 'lookup_in_workspace': False, 'merge_install': False, 'path': '/home/user/ros2_ws/src/led_control_node', 'symlink_install': False, 'test_result_base': None}
+[3.341s] Level 5:colcon.colcon_core.verb:set package 'pong_reply_node' build argument 'lookup_in_workspace' from command line to 'False'
+[3.341s] Level 5:colcon.colcon_core.verb:set package 'pong_reply_node' build argument 'cargo_args' from command line to 'None'
+[3.341s] Level 5:colcon.colcon_core.verb:set package 'pong_reply_node' build argument 'clean_build' from command line to 'False'
+[3.341s] Level 5:colcon.colcon_core.verb:set package 'pong_reply_node' build argument 'cmake_args' from command line to 'None'
+[3.341s] Level 5:colcon.colcon_core.verb:set package 'pong_reply_node' build argument 'cmake_target' from command line to 'None'
+[3.341s] Level 5:colcon.colcon_core.verb:set package 'pong_reply_node' build argument 'cmake_target_skip_unavailable' from command line to 'False'
+[3.341s] Level 5:colcon.colcon_core.verb:set package 'pong_reply_node' build argument 'cmake_clean_cache' from command line to 'False'
+[3.341s] Level 5:colcon.colcon_core.verb:set package 'pong_reply_node' build argument 'cmake_clean_first' from command line to 'False'
+[3.341s] Level 5:colcon.colcon_core.verb:set package 'pong_reply_node' build argument 'cmake_force_configure' from command line to 'False'
+[3.341s] Level 5:colcon.colcon_core.verb:set package 'pong_reply_node' build argument 'ament_cmake_args' from command line to 'None'
+[3.341s] Level 5:colcon.colcon_core.verb:set package 'pong_reply_node' build argument 'catkin_cmake_args' from command line to 'None'
+[3.341s] Level 5:colcon.colcon_core.verb:set package 'pong_reply_node' build argument 'catkin_skip_building_tests' from command line to 'False'
+[3.341s] DEBUG:colcon.colcon_core.verb:Building package 'pong_reply_node' with the following arguments: {'ament_cmake_args': None, 'build_base': '/home/user/ros2_ws/build/pong_reply_node', 'cargo_args': None, 'catkin_cmake_args': None, 'catkin_skip_building_tests': False, 'clean_build': False, 'cmake_args': None, 'cmake_clean_cache': False, 'cmake_clean_first': False, 'cmake_force_configure': False, 'cmake_target': None, 'cmake_target_skip_unavailable': False, 'install_base': '/home/user/ros2_ws/install/pong_reply_node', 'lookup_in_workspace': False, 'merge_install': False, 'path': '/home/user/ros2_ws/src/pong_reply_node', 'symlink_install': False, 'test_result_base': None}
+[3.341s] INFO:colcon.colcon_core.executor:Executing jobs using 'parallel' executor
+[3.342s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:run_until_complete
+[3.342s] INFO:colcon.colcon_ros.task.ament_python.build:Building ROS package in '/home/user/ros2_ws/src/led_control_node' with build type 'ament_python'
+[3.343s] Level 1:colcon.colcon_core.shell:create_environment_hook('led_control_node', 'ament_prefix_path')
+[3.355s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_core.shell.bat': Not used on non-Windows systems
+[3.355s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/user/ros2_ws/install/led_control_node/share/led_control_node/hook/ament_prefix_path.ps1'
+[3.357s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/user/ros2_ws/install/led_control_node/share/led_control_node/hook/ament_prefix_path.dsv'
+[3.358s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/user/ros2_ws/install/led_control_node/share/led_control_node/hook/ament_prefix_path.sh'
+[3.359s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[3.359s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[3.495s] INFO:colcon.colcon_ros.task.ament_python.build:Building ROS package in '/home/user/ros2_ws/src/pong_reply_node' with build type 'ament_python'
+[3.495s] Level 1:colcon.colcon_core.shell:create_environment_hook('pong_reply_node', 'ament_prefix_path')
+[3.495s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/user/ros2_ws/install/pong_reply_node/share/pong_reply_node/hook/ament_prefix_path.ps1'
+[3.496s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/user/ros2_ws/install/pong_reply_node/share/pong_reply_node/hook/ament_prefix_path.dsv'
+[3.496s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/user/ros2_ws/install/pong_reply_node/share/pong_reply_node/hook/ament_prefix_path.sh'
+[3.497s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[3.497s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[3.952s] INFO:colcon.colcon_core.task.python.build:Building Python package in '/home/user/ros2_ws/src/led_control_node'
+[3.953s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[3.953s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[4.218s] INFO:colcon.colcon_core.task.python.build:Building Python package in '/home/user/ros2_ws/src/pong_reply_node'
+[4.218s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[4.218s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[20.481s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/user/ros2_ws/src/led_control_node': PYTHONPATH=/home/user/ros2_ws/build/led_control_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/ros2_ws/install/led_control_node/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/led_control_node build --build-base /home/user/ros2_ws/build/led_control_node/build install --record /home/user/ros2_ws/build/led_control_node/install.log --single-version-externally-managed install_data
+[20.489s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/user/ros2_ws/src/pong_reply_node': PYTHONPATH=/home/user/ros2_ws/build/pong_reply_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/ros2_ws/install/pong_reply_node/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pong_reply_node build --build-base /home/user/ros2_ws/build/pong_reply_node/build install --record /home/user/ros2_ws/build/pong_reply_node/install.log --single-version-externally-managed install_data
+[21.163s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/user/ros2_ws/src/pong_reply_node' returned '0': PYTHONPATH=/home/user/ros2_ws/build/pong_reply_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/ros2_ws/install/pong_reply_node/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pong_reply_node build --build-base /home/user/ros2_ws/build/pong_reply_node/build install --record /home/user/ros2_ws/build/pong_reply_node/install.log --single-version-externally-managed install_data
+[21.179s] Level 1:colcon.colcon_core.environment:checking '/home/user/ros2_ws/install/pong_reply_node' for CMake module files
+[21.179s] Level 1:colcon.colcon_core.environment:checking '/home/user/ros2_ws/install/pong_reply_node' for CMake config files
+[21.180s] Level 1:colcon.colcon_core.environment:checking '/home/user/ros2_ws/install/pong_reply_node/lib'
+[21.180s] Level 1:colcon.colcon_core.environment:checking '/home/user/ros2_ws/install/pong_reply_node/bin'
+[21.180s] Level 1:colcon.colcon_core.environment:checking '/home/user/ros2_ws/install/pong_reply_node/lib/pkgconfig/pong_reply_node.pc'
+[21.180s] Level 1:colcon.colcon_core.environment:checking '/home/user/ros2_ws/install/pong_reply_node/lib/python3.10/site-packages'
+[21.180s] Level 1:colcon.colcon_core.shell:create_environment_hook('pong_reply_node', 'pythonpath')
+[21.181s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/user/ros2_ws/install/pong_reply_node/share/pong_reply_node/hook/pythonpath.ps1'
+[21.181s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/user/ros2_ws/install/pong_reply_node/share/pong_reply_node/hook/pythonpath.dsv'
+[21.182s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/user/ros2_ws/install/pong_reply_node/share/pong_reply_node/hook/pythonpath.sh'
+[21.182s] Level 1:colcon.colcon_core.environment:checking '/home/user/ros2_ws/install/pong_reply_node/bin'
+[21.182s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(pong_reply_node)
+[21.183s] INFO:colcon.colcon_core.shell:Creating package script '/home/user/ros2_ws/install/pong_reply_node/share/pong_reply_node/package.ps1'
+[21.184s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/user/ros2_ws/install/pong_reply_node/share/pong_reply_node/package.dsv'
+[21.185s] INFO:colcon.colcon_core.shell:Creating package script '/home/user/ros2_ws/install/pong_reply_node/share/pong_reply_node/package.sh'
+[21.186s] INFO:colcon.colcon_core.shell:Creating package script '/home/user/ros2_ws/install/pong_reply_node/share/pong_reply_node/package.bash'
+[21.188s] INFO:colcon.colcon_core.shell:Creating package script '/home/user/ros2_ws/install/pong_reply_node/share/pong_reply_node/package.zsh'
+[21.189s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/user/ros2_ws/install/pong_reply_node/share/colcon-core/packages/pong_reply_node)
+[21.190s] Level 1:colcon.colcon_core.environment:checking '/home/user/ros2_ws/install/led_control_node' for CMake module files
+[21.191s] Level 1:colcon.colcon_core.environment:checking '/home/user/ros2_ws/install/led_control_node' for CMake config files
+[21.191s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/user/ros2_ws/src/led_control_node' returned '0': PYTHONPATH=/home/user/ros2_ws/build/led_control_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/ros2_ws/install/led_control_node/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/led_control_node build --build-base /home/user/ros2_ws/build/led_control_node/build install --record /home/user/ros2_ws/build/led_control_node/install.log --single-version-externally-managed install_data
+[21.192s] Level 1:colcon.colcon_core.environment:checking '/home/user/ros2_ws/install/led_control_node/lib'
+[21.192s] Level 1:colcon.colcon_core.environment:checking '/home/user/ros2_ws/install/led_control_node/bin'
+[21.192s] Level 1:colcon.colcon_core.environment:checking '/home/user/ros2_ws/install/led_control_node/lib/pkgconfig/led_control_node.pc'
+[21.192s] Level 1:colcon.colcon_core.environment:checking '/home/user/ros2_ws/install/led_control_node/lib/python3.10/site-packages'
+[21.192s] Level 1:colcon.colcon_core.shell:create_environment_hook('led_control_node', 'pythonpath')
+[21.192s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/user/ros2_ws/install/led_control_node/share/led_control_node/hook/pythonpath.ps1'
+[21.193s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/user/ros2_ws/install/led_control_node/share/led_control_node/hook/pythonpath.dsv'
+[21.193s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/user/ros2_ws/install/led_control_node/share/led_control_node/hook/pythonpath.sh'
+[21.194s] Level 1:colcon.colcon_core.environment:checking '/home/user/ros2_ws/install/led_control_node/bin'
+[21.194s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(led_control_node)
+[21.194s] INFO:colcon.colcon_core.shell:Creating package script '/home/user/ros2_ws/install/led_control_node/share/led_control_node/package.ps1'
+[21.194s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/user/ros2_ws/install/led_control_node/share/led_control_node/package.dsv'
+[21.195s] INFO:colcon.colcon_core.shell:Creating package script '/home/user/ros2_ws/install/led_control_node/share/led_control_node/package.sh'
+[21.195s] INFO:colcon.colcon_core.shell:Creating package script '/home/user/ros2_ws/install/led_control_node/share/led_control_node/package.bash'
+[21.195s] INFO:colcon.colcon_core.shell:Creating package script '/home/user/ros2_ws/install/led_control_node/share/led_control_node/package.zsh'
+[21.196s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/user/ros2_ws/install/led_control_node/share/colcon-core/packages/led_control_node)
+[21.196s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:closing loop
+[21.196s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:loop closed
+[21.196s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:run_until_complete finished with '0'
+[21.196s] DEBUG:colcon.colcon_core.event_reactor:joining thread
+[21.795s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.notify_send': Could not find 'notify-send'
+[21.795s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.terminal_notifier': Not used on non-Darwin systems
+[21.795s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.win32': Not used on non-Windows systems
+[21.796s] INFO:colcon.colcon_notification.desktop_notification:Sending desktop notification using 'notify2'
+[21.798s] DEBUG:colcon.colcon_notification.desktop_notification.notify2:Failed to initialize notify2: org.freedesktop.DBus.Error.Spawn.ExecFailed: /usr/bin/dbus-launch terminated abnormally without any error message
+[21.799s] DEBUG:colcon.colcon_core.event_reactor:joined thread
+[21.799s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/user/ros2_ws/install/local_setup.ps1'
+[21.801s] INFO:colcon.colcon_core.shell:Creating prefix util module '/home/user/ros2_ws/install/_local_setup_util_ps1.py'
+[21.803s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/user/ros2_ws/install/setup.ps1'
+[21.806s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/user/ros2_ws/install/local_setup.sh'
+[21.807s] INFO:colcon.colcon_core.shell:Creating prefix util module '/home/user/ros2_ws/install/_local_setup_util_sh.py'
+[21.808s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/user/ros2_ws/install/setup.sh'
+[21.811s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/user/ros2_ws/install/local_setup.bash'
+[21.812s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/user/ros2_ws/install/setup.bash'
+[21.815s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/user/ros2_ws/install/local_setup.zsh'
+[21.816s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/user/ros2_ws/install/setup.zsh'

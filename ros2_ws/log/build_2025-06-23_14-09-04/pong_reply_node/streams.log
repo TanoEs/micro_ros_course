@@ -1,0 +1,23 @@
+[21.012s] Invoking command in '/home/user/ros2_ws/src/pong_reply_node': PYTHONPATH=/home/user/ros2_ws/build/pong_reply_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/ros2_ws/install/pong_reply_node/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pong_reply_node build --build-base /home/user/ros2_ws/build/pong_reply_node/build install --record /home/user/ros2_ws/build/pong_reply_node/install.log --single-version-externally-managed install_data
+[21.265s] /usr/local/lib/python3.10/dist-packages/setuptools/_distutils/dist.py:289: UserWarning: Unknown distribution option: 'tests_require'
+[21.265s]   warnings.warn(msg)
+[21.383s] running egg_info
+[21.402s] writing ../../build/pong_reply_node/pong_reply_node.egg-info/PKG-INFO
+[21.402s] writing dependency_links to ../../build/pong_reply_node/pong_reply_node.egg-info/dependency_links.txt
+[21.402s] writing entry points to ../../build/pong_reply_node/pong_reply_node.egg-info/entry_points.txt
+[21.403s] writing requirements to ../../build/pong_reply_node/pong_reply_node.egg-info/requires.txt
+[21.403s] writing top-level names to ../../build/pong_reply_node/pong_reply_node.egg-info/top_level.txt
+[21.441s] reading manifest file '../../build/pong_reply_node/pong_reply_node.egg-info/SOURCES.txt'
+[21.443s] writing manifest file '../../build/pong_reply_node/pong_reply_node.egg-info/SOURCES.txt'
+[21.443s] running build
+[21.443s] running build_py
+[21.443s] running install
+[21.448s] running install_lib
+[21.467s] running install_data
+[21.468s] running install_egg_info
+[21.488s] removing '/home/user/ros2_ws/install/pong_reply_node/lib/python3.10/site-packages/pong_reply_node-0.0.0-py3.10.egg-info' (and everything under it)
+[21.488s] Copying ../../build/pong_reply_node/pong_reply_node.egg-info to /home/user/ros2_ws/install/pong_reply_node/lib/python3.10/site-packages/pong_reply_node-0.0.0-py3.10.egg-info
+[21.489s] running install_scripts
+[21.663s] Installing pong script to /home/user/ros2_ws/install/pong_reply_node/lib/pong_reply_node
+[21.663s] writing list of installed files to '/home/user/ros2_ws/build/pong_reply_node/install.log'
+[21.696s] Invoked command in '/home/user/ros2_ws/src/pong_reply_node' returned '0': PYTHONPATH=/home/user/ros2_ws/build/pong_reply_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/ros2_ws/install/pong_reply_node/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pong_reply_node build --build-base /home/user/ros2_ws/build/pong_reply_node/build install --record /home/user/ros2_ws/build/pong_reply_node/install.log --single-version-externally-managed install_data
