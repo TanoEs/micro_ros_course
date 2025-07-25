@@ -1,0 +1,219 @@
+[0.000000] (-) TimerEvent: {}
+[0.000436] (pong_reply_node) JobQueued: {'identifier': 'pong_reply_node', 'dependencies': OrderedDict()}
+[0.000712] (pong_reply_node) JobStarted: {'identifier': 'pong_reply_node'}
+[0.099633] (-) TimerEvent: {}
+[0.199876] (-) TimerEvent: {}
+[0.300132] (-) TimerEvent: {}
+[0.400364] (-) TimerEvent: {}
+[0.500588] (-) TimerEvent: {}
+[0.600838] (-) TimerEvent: {}
+[0.701533] (-) TimerEvent: {}
+[0.801796] (-) TimerEvent: {}
+[0.902067] (-) TimerEvent: {}
+[1.002340] (-) TimerEvent: {}
+[1.102620] (-) TimerEvent: {}
+[1.202985] (-) TimerEvent: {}
+[1.304240] (-) TimerEvent: {}
+[1.404528] (-) TimerEvent: {}
+[1.504810] (-) TimerEvent: {}
+[1.605174] (-) TimerEvent: {}
+[1.705504] (-) TimerEvent: {}
+[1.805779] (-) TimerEvent: {}
+[1.906051] (-) TimerEvent: {}
+[2.006408] (-) TimerEvent: {}
+[2.106716] (-) TimerEvent: {}
+[2.207068] (-) TimerEvent: {}
+[2.307398] (-) TimerEvent: {}
+[2.407680] (-) TimerEvent: {}
+[2.507955] (-) TimerEvent: {}
+[2.608231] (-) TimerEvent: {}
+[2.708501] (-) TimerEvent: {}
+[2.809010] (-) TimerEvent: {}
+[2.909322] (-) TimerEvent: {}
+[3.009609] (-) TimerEvent: {}
+[3.109881] (-) TimerEvent: {}
+[3.210130] (-) TimerEvent: {}
+[3.310356] (-) TimerEvent: {}
+[3.410569] (-) TimerEvent: {}
+[3.510789] (-) TimerEvent: {}
+[3.611051] (-) TimerEvent: {}
+[3.711294] (-) TimerEvent: {}
+[3.811522] (-) TimerEvent: {}
+[3.911749] (-) TimerEvent: {}
+[4.011978] (-) TimerEvent: {}
+[4.112211] (-) TimerEvent: {}
+[4.212447] (-) TimerEvent: {}
+[4.312674] (-) TimerEvent: {}
+[4.412892] (-) TimerEvent: {}
+[4.513149] (-) TimerEvent: {}
+[4.613419] (-) TimerEvent: {}
+[4.714055] (-) TimerEvent: {}
+[4.814278] (-) TimerEvent: {}
+[4.914517] (-) TimerEvent: {}
+[5.014772] (-) TimerEvent: {}
+[5.115012] (-) TimerEvent: {}
+[5.215252] (-) TimerEvent: {}
+[5.315491] (-) TimerEvent: {}
+[5.415774] (-) TimerEvent: {}
+[5.516558] (-) TimerEvent: {}
+[5.616837] (-) TimerEvent: {}
+[5.717144] (-) TimerEvent: {}
+[5.817394] (-) TimerEvent: {}
+[5.917638] (-) TimerEvent: {}
+[6.017906] (-) TimerEvent: {}
+[6.118180] (-) TimerEvent: {}
+[6.218482] (-) TimerEvent: {}
+[6.319078] (-) TimerEvent: {}
+[6.419363] (-) TimerEvent: {}
+[6.519619] (-) TimerEvent: {}
+[6.619861] (-) TimerEvent: {}
+[6.720091] (-) TimerEvent: {}
+[6.820338] (-) TimerEvent: {}
+[6.920575] (-) TimerEvent: {}
+[7.020833] (-) TimerEvent: {}
+[7.121563] (-) TimerEvent: {}
+[7.221849] (-) TimerEvent: {}
+[7.322120] (-) TimerEvent: {}
+[7.422395] (-) TimerEvent: {}
+[7.522665] (-) TimerEvent: {}
+[7.622913] (-) TimerEvent: {}
+[7.723162] (-) TimerEvent: {}
+[7.823396] (-) TimerEvent: {}
+[7.923961] (-) TimerEvent: {}
+[8.024178] (-) TimerEvent: {}
+[8.124406] (-) TimerEvent: {}
+[8.224652] (-) TimerEvent: {}
+[8.324937] (-) TimerEvent: {}
+[8.425264] (-) TimerEvent: {}
+[8.525567] (-) TimerEvent: {}
+[8.625843] (-) TimerEvent: {}
+[8.726131] (-) TimerEvent: {}
+[8.826407] (-) TimerEvent: {}
+[8.926686] (-) TimerEvent: {}
+[9.026964] (-) TimerEvent: {}
+[9.127244] (-) TimerEvent: {}
+[9.227533] (-) TimerEvent: {}
+[9.327809] (-) TimerEvent: {}
+[9.428636] (-) TimerEvent: {}
+[9.528950] (-) TimerEvent: {}
+[9.629274] (-) TimerEvent: {}
+[9.729569] (-) TimerEvent: {}
+[9.829893] (-) TimerEvent: {}
+[9.930184] (-) TimerEvent: {}
+[10.030485] (-) TimerEvent: {}
+[10.130778] (-) TimerEvent: {}
+[10.231068] (-) TimerEvent: {}
+[10.331347] (-) TimerEvent: {}
+[10.431619] (-) TimerEvent: {}
+[10.531909] (-) TimerEvent: {}
+[10.632185] (-) TimerEvent: {}
+[10.732482] (-) TimerEvent: {}
+[10.832759] (-) TimerEvent: {}
+[10.933040] (-) TimerEvent: {}
+[11.033610] (-) TimerEvent: {}
+[11.133878] (-) TimerEvent: {}
+[11.234137] (-) TimerEvent: {}
+[11.334411] (-) TimerEvent: {}
+[11.434667] (-) TimerEvent: {}
+[11.534901] (-) TimerEvent: {}
+[11.635139] (-) TimerEvent: {}
+[11.735406] (-) TimerEvent: {}
+[11.835631] (-) TimerEvent: {}
+[11.935839] (-) TimerEvent: {}
+[12.036071] (-) TimerEvent: {}
+[12.136369] (-) TimerEvent: {}
+[12.236663] (-) TimerEvent: {}
+[12.336957] (-) TimerEvent: {}
+[12.437255] (-) TimerEvent: {}
+[12.537539] (-) TimerEvent: {}
+[12.637822] (-) TimerEvent: {}
+[12.738108] (-) TimerEvent: {}
+[12.838390] (-) TimerEvent: {}
+[12.939069] (-) TimerEvent: {}
+[13.039357] (-) TimerEvent: {}
+[13.139640] (-) TimerEvent: {}
+[13.239910] (-) TimerEvent: {}
+[13.340187] (-) TimerEvent: {}
+[13.440470] (-) TimerEvent: {}
+[13.541275] (-) TimerEvent: {}
+[13.641565] (-) TimerEvent: {}
+[13.741869] (-) TimerEvent: {}
+[13.842157] (-) TimerEvent: {}
+[13.942433] (-) TimerEvent: {}
+[14.042705] (-) TimerEvent: {}
+[14.142985] (-) TimerEvent: {}
+[14.243276] (-) TimerEvent: {}
+[14.343569] (-) TimerEvent: {}
+[14.443839] (-) TimerEvent: {}
+[14.544098] (-) TimerEvent: {}
+[14.644368] (-) TimerEvent: {}
+[14.744637] (-) TimerEvent: {}
+[14.844899] (-) TimerEvent: {}
+[14.945184] (-) TimerEvent: {}
+[15.045464] (-) TimerEvent: {}
+[15.145744] (-) TimerEvent: {}
+[15.246013] (-) TimerEvent: {}
+[15.346298] (-) TimerEvent: {}
+[15.446568] (-) TimerEvent: {}
+[15.546843] (-) TimerEvent: {}
+[15.647131] (-) TimerEvent: {}
+[15.747416] (-) TimerEvent: {}
+[15.847701] (-) TimerEvent: {}
+[15.947958] (-) TimerEvent: {}
+[16.048218] (-) TimerEvent: {}
+[16.148459] (-) TimerEvent: {}
+[16.248702] (-) TimerEvent: {}
+[16.348968] (-) TimerEvent: {}
+[16.449228] (-) TimerEvent: {}
+[16.549470] (-) TimerEvent: {}
+[16.649706] (-) TimerEvent: {}
+[16.749943] (-) TimerEvent: {}
+[16.850208] (-) TimerEvent: {}
+[16.950500] (-) TimerEvent: {}
+[17.050791] (-) TimerEvent: {}
+[17.151071] (-) TimerEvent: {}
+[17.251338] (-) TimerEvent: {}
+[17.351644] (-) TimerEvent: {}
+[17.372078] (pong_reply_node) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/pong_reply_node', 'build', '--build-base', '/home/user/ros2_ws/build/pong_reply_node/build', 'install', '--record', '/home/user/ros2_ws/build/pong_reply_node/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/user/ros2_ws/src/pong_reply_node', 'env': {'ROS_VERSION': '2', 'NVIDIA_VISIBLE_DEVICES': 'all', 'GAZEBO_MASTER_URI': 'http://1_simulation:11345', 'PKG_CONFIG_PATH': ':/opt/ros/humble/lib/pkgconfig:/opt/ros/humble/lib/x86_64-linux-gnu/pkgconfig:/opt/ros/humble/lib/pkgconfig:/opt/ros/humble/lib/x86_64-linux-gnu/pkgconfig', 'ROS_PYTHON_VERSION': '3', 'HOSTNAME': '1_xterm', 'PWD': '/home/user/ros2_ws/build/pong_reply_node', 'PORT': '4000', 'NVIDIA_DRIVER_CAPABILITIES': 'all', 'ROS_IP': '', 'HOME': '/home/user', 'GAZEBO_PLUGIN_PATH': '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:', 'LANG': 'en_US.UTF-8', 'GAZEBO_MODEL_DATABASE_URI': 'http://models.gazebosim.org', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'AMENT_PREFIX_PATH': '/opt/ros/humble', 'CMAKE_PREFIX_PATH': ':/opt/ros/humble:/opt/ros/humble', 'GAZEBO_RESOURCE_PATH': '/usr/share/gazebo-11:/usr/share/gazebo-11:/usr/share/gazebo', 'GAZEBO_MASTER_PORT': '11345', 'NVM_DIR': '/usr/local/share/shell/.nvm', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'PYTHONPATH': '/home/user/ros2_ws/build/pong_reply_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/ros2_ws/install/pong_reply_node/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages:/home/simulations/public_sim_ws/src/all/ros_basics_examples/python_course_class:/home/simulations/public_sim_ws/src/ros_basics_examples/python_course_class:/home/simulations/public_sim_ws/src/all/kinematics_course_utils/kinematics', 'COLCON': '1', 'TERM': 'xterm-color', 'LESSOPEN': '| /usr/bin/lesspipe %s', 'SNAPCRAFT_BUILD_ENVIRONMENT': 'host', 'GAZEBO_MASTER_HOSTNAME': '1_simulation', 'DISPLAY': ':1', 'SHLVL': '2', 'NVM_CD_FLAGS': '', 'ROS_MASTER_URI': 'http://1_simulation:11311', 'ROS_HOSTNAME': '1_xterm', 'LD_LIBRARY_PATH': '/home/user/catkin_ws/devel/lib:/home/simulations/public_sim_ws/devel/lib:/opt/ros/humble/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/usr/local/cuda-10.2/lib64:/home/user/.catkin_ws_python3/src/TensorRT-7.0.0.11/lib:/home/user/catkin_ws/devel/lib:/home/simulations/public_sim_ws/devel/lib:/opt/ros/humble/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/local/cuda-10.2/lib64:/home/user/.catkin_ws_python3/src/TensorRT-7.0.0.11/lib::/usr/lib/x86_64-linux-gnu/gazebo-11/plugins::/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:', 'ROS_LOCALHOST_ONLY': '0', 'SLOT_SHELL_START_ID': '0', 'SLOT_PREFIX': '82bfa193-d83b-434e-849e-da4faa6b1008', 'LC_ALL': 'C', 'SOURCE_ROS1_WS': 'True', 'GAZEBO_MODEL_PATH': '/usr/share/gazebo-11/models:/usr/share/gazebo-11/models:/usr/share/gazebo-9/models:/usr/share/gazebo/models_robox', 'SLOT_JENKINS_PORT': '25214', 'SLOT_SYSTEMD': 'False', 'PATH': '/opt/ros/humble/bin:/opt/ros/humble/bin:/opt/ros/humble/bin:/usr/local/share/shell/.nvm/versions/node/v8.17.0/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/home/user/.cargo/bin:/home/user/.cargo/bin', 'SELECTED_ROS_DISTRO': 'humble', 'NVM_BIN': '/usr/local/share/shell/.nvm/versions/node/v8.17.0/bin', 'NODE_VERSION': 'v8.17.0', 'DEBIAN_FRONTEND': 'noninteractive', 'ROS_DISTRO': 'humble', 'GAZEBO_VERBOSE': '0', 'OGRE_RESOURCE_PATH': '/usr/lib/x86_64-linux-gnu/OGRE-1.9.0', 'OLDPWD': '/home/user/ros2_ws/src/pong_reply_node/pong_reply_node', 'SOURCE_ROS2_WS': '', 'SLOT_ROSBRIDGE_PORT': '20001', '_': '/usr/bin/env'}, 'shell': False}
+[17.451746] (-) TimerEvent: {}
+[17.536542] (pong_reply_node) StderrLine: {'line': b"/usr/local/lib/python3.10/dist-packages/setuptools/_distutils/dist.py:289: UserWarning: Unknown distribution option: 'tests_require'\n"}
+[17.536747] (pong_reply_node) StderrLine: {'line': b'  warnings.warn(msg)\n'}
+[17.551821] (-) TimerEvent: {}
+[17.647063] (pong_reply_node) StdoutLine: {'line': b'running egg_info\n'}
+[17.651907] (-) TimerEvent: {}
+[17.664600] (pong_reply_node) StdoutLine: {'line': b'creating ../../build/pong_reply_node/pong_reply_node.egg-info\n'}
+[17.664765] (pong_reply_node) StdoutLine: {'line': b'writing ../../build/pong_reply_node/pong_reply_node.egg-info/PKG-INFO\n'}
+[17.665207] (pong_reply_node) StdoutLine: {'line': b'writing dependency_links to ../../build/pong_reply_node/pong_reply_node.egg-info/dependency_links.txt\n'}
+[17.665378] (pong_reply_node) StdoutLine: {'line': b'writing entry points to ../../build/pong_reply_node/pong_reply_node.egg-info/entry_points.txt\n'}
+[17.665537] (pong_reply_node) StdoutLine: {'line': b'writing requirements to ../../build/pong_reply_node/pong_reply_node.egg-info/requires.txt\n'}
+[17.665647] (pong_reply_node) StdoutLine: {'line': b'writing top-level names to ../../build/pong_reply_node/pong_reply_node.egg-info/top_level.txt\n'}
+[17.665754] (pong_reply_node) StdoutLine: {'line': b"writing manifest file '../../build/pong_reply_node/pong_reply_node.egg-info/SOURCES.txt'\n"}
+[17.703373] (pong_reply_node) StdoutLine: {'line': b"reading manifest file '../../build/pong_reply_node/pong_reply_node.egg-info/SOURCES.txt'\n"}
+[17.704405] (pong_reply_node) StdoutLine: {'line': b"writing manifest file '../../build/pong_reply_node/pong_reply_node.egg-info/SOURCES.txt'\n"}
+[17.704558] (pong_reply_node) StdoutLine: {'line': b'running build\n'}
+[17.704654] (pong_reply_node) StdoutLine: {'line': b'running build_py\n'}
+[17.704760] (pong_reply_node) StdoutLine: {'line': b'creating /home/user/ros2_ws/build/pong_reply_node/build/lib/pong_reply_node\n'}
+[17.704912] (pong_reply_node) StdoutLine: {'line': b'copying pong_reply_node/__init__.py -> /home/user/ros2_ws/build/pong_reply_node/build/lib/pong_reply_node\n'}
+[17.705137] (pong_reply_node) StdoutLine: {'line': b'copying pong_reply_node/pong.py -> /home/user/ros2_ws/build/pong_reply_node/build/lib/pong_reply_node\n'}
+[17.705422] (pong_reply_node) StdoutLine: {'line': b'running install\n'}
+[17.709682] (pong_reply_node) StdoutLine: {'line': b'running install_lib\n'}
+[17.728162] (pong_reply_node) StdoutLine: {'line': b'creating /home/user/ros2_ws/install/pong_reply_node/lib/python3.10/site-packages/pong_reply_node\n'}
+[17.728307] (pong_reply_node) StdoutLine: {'line': b'copying /home/user/ros2_ws/build/pong_reply_node/build/lib/pong_reply_node/__init__.py -> /home/user/ros2_ws/install/pong_reply_node/lib/python3.10/site-packages/pong_reply_node\n'}
+[17.728434] (pong_reply_node) StdoutLine: {'line': b'copying /home/user/ros2_ws/build/pong_reply_node/build/lib/pong_reply_node/pong.py -> /home/user/ros2_ws/install/pong_reply_node/lib/python3.10/site-packages/pong_reply_node\n'}
+[17.728922] (pong_reply_node) StdoutLine: {'line': b'byte-compiling /home/user/ros2_ws/install/pong_reply_node/lib/python3.10/site-packages/pong_reply_node/__init__.py to __init__.cpython-310.pyc\n'}
+[17.729237] (pong_reply_node) StdoutLine: {'line': b'byte-compiling /home/user/ros2_ws/install/pong_reply_node/lib/python3.10/site-packages/pong_reply_node/pong.py to pong.cpython-310.pyc\n'}
+[17.729658] (pong_reply_node) StdoutLine: {'line': b'running install_data\n'}
+[17.729858] (pong_reply_node) StdoutLine: {'line': b'creating /home/user/ros2_ws/install/pong_reply_node/share/ament_index/resource_index/packages\n'}
+[17.730022] (pong_reply_node) StdoutLine: {'line': b'copying resource/pong_reply_node -> /home/user/ros2_ws/install/pong_reply_node/share/ament_index/resource_index/packages\n'}
+[17.730205] (pong_reply_node) StdoutLine: {'line': b'copying package.xml -> /home/user/ros2_ws/install/pong_reply_node/share/pong_reply_node\n'}
+[17.730316] (pong_reply_node) StdoutLine: {'line': b'running install_egg_info\n'}
+[17.750872] (pong_reply_node) StdoutLine: {'line': b'Copying ../../build/pong_reply_node/pong_reply_node.egg-info to /home/user/ros2_ws/install/pong_reply_node/lib/python3.10/site-packages/pong_reply_node-0.0.0-py3.10.egg-info\n'}
+[17.751665] (pong_reply_node) StdoutLine: {'line': b'running install_scripts\n'}
+[17.751972] (-) TimerEvent: {}
+[17.852169] (-) TimerEvent: {}
+[17.907559] (pong_reply_node) StdoutLine: {'line': b'Installing pong script to /home/user/ros2_ws/install/pong_reply_node/lib/pong_reply_node\n'}
+[17.907894] (pong_reply_node) StdoutLine: {'line': b"writing list of installed files to '/home/user/ros2_ws/build/pong_reply_node/install.log'\n"}
+[17.933581] (pong_reply_node) CommandEnded: {'returncode': 0}
+[17.952371] (-) TimerEvent: {}
+[17.961105] (pong_reply_node) JobEnded: {'identifier': 'pong_reply_node', 'rc': 0}
+[17.961778] (-) EventReactorShutdown: {}

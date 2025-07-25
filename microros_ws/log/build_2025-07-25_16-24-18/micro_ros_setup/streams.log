@@ -1,0 +1,16 @@
+[0.132s] Invoking command in '/home/user/microros_ws/build/micro_ros_setup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/ros2_ws/install/pong_reply_node _=/usr/bin/env /usr/bin/cmake /home/user/microros_ws/src/micro_ros_setup -DCMAKE_INSTALL_PREFIX=/home/user/microros_ws/install/micro_ros_setup
+[8.143s] -- The C compiler identification is GNU 11.4.0
+[12.454s] -- The CXX compiler identification is GNU 11.4.0
+[12.474s] -- Detecting C compiler ABI info
+[12.937s] -- Detecting C compiler ABI info - done
+[12.944s] -- Check for working C compiler: /usr/bin/cc - skipped
+[12.945s] -- Detecting C compile features
+[13.040s] -- Detecting C compile features - done
+[13.045s] -- Detecting CXX compiler ABI info
+[13.397s] -- Detecting CXX compiler ABI info - done
+[13.405s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[13.406s] -- Detecting CXX compile features
+[13.406s] -- Detecting CXX compile features - done
+[13.425s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[14.250s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[14.764s] Invoked command in '/home/user/microros_ws/build/micro_ros_setup' returned '-2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/ros2_ws/install/pong_reply_node _=/usr/bin/env /usr/bin/cmake /home/user/microros_ws/src/micro_ros_setup -DCMAKE_INSTALL_PREFIX=/home/user/microros_ws/install/micro_ros_setup

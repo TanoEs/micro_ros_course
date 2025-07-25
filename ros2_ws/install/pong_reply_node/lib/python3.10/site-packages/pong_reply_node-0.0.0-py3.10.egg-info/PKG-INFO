@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: pong_reply_node
+Version: 0.0.0
+Summary: Simple ROS 2 node that replies to ping messages
+Maintainer: user
+Maintainer-email: user@todo.todo
+License: MIT
+Requires-Dist: setuptools
+Dynamic: license
+Dynamic: maintainer
+Dynamic: maintainer-email
+Dynamic: requires-dist
+Dynamic: summary

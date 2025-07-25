@@ -1,0 +1,169 @@
+[0.000000] (-) TimerEvent: {}
+[0.000446] (micro_ros_setup) JobQueued: {'identifier': 'micro_ros_setup', 'dependencies': OrderedDict()}
+[0.000732] (micro_ros_setup) JobStarted: {'identifier': 'micro_ros_setup'}
+[0.010028] (micro_ros_setup) JobProgress: {'identifier': 'micro_ros_setup', 'progress': 'cmake'}
+[0.010528] (micro_ros_setup) Command: {'cmd': ['/usr/bin/cmake', '/home/user/microros_ws/src/micro_ros_setup', '-DCMAKE_INSTALL_PREFIX=/home/user/microros_ws/install/micro_ros_setup'], 'cwd': '/home/user/microros_ws/build/micro_ros_setup', 'env': OrderedDict([('ROS_VERSION', '2'), ('NVIDIA_VISIBLE_DEVICES', 'all'), ('GAZEBO_MASTER_URI', 'http://1_simulation:11345'), ('PKG_CONFIG_PATH', ':/opt/ros/humble/lib/pkgconfig:/opt/ros/humble/lib/x86_64-linux-gnu/pkgconfig:/opt/ros/humble/lib/pkgconfig:/opt/ros/humble/lib/x86_64-linux-gnu/pkgconfig'), ('ROS_PYTHON_VERSION', '3'), ('HOSTNAME', '1_xterm'), ('PWD', '/home/user/microros_ws/build/micro_ros_setup'), ('PORT', '4000'), ('NVIDIA_DRIVER_CAPABILITIES', 'all'), ('ROS_IP', ''), ('HOME', '/home/user'), ('GAZEBO_PLUGIN_PATH', '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:'), ('LANG', 'en_US.UTF-8'), ('GAZEBO_MODEL_DATABASE_URI', 'http://models.gazebosim.org'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('AMENT_PREFIX_PATH', '/home/user/ros2_ws/install/pong_reply_node:/opt/ros/humble'), ('CMAKE_PREFIX_PATH', ':/opt/ros/humble:/opt/ros/humble:/home/user/ros2_ws/install/pong_reply_node'), ('GAZEBO_RESOURCE_PATH', '/usr/share/gazebo-11:/usr/share/gazebo-11:/usr/share/gazebo'), ('COLCON_PREFIX_PATH', '/home/user/ros2_ws/install'), ('GAZEBO_MASTER_PORT', '11345'), ('NVM_DIR', '/usr/local/share/shell/.nvm'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('PYTHONPATH', '/home/user/ros2_ws/install/pong_reply_node/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages:/home/simulations/public_sim_ws/src/all/ros_basics_examples/python_course_class:/home/simulations/public_sim_ws/src/ros_basics_examples/python_course_class:/home/simulations/public_sim_ws/src/all/kinematics_course_utils/kinematics'), ('COLCON', '1'), ('TERM', 'xterm-color'), ('LESSOPEN', '| /usr/bin/lesspipe %s'), ('SNAPCRAFT_BUILD_ENVIRONMENT', 'host'), ('GAZEBO_MASTER_HOSTNAME', '1_simulation'), ('DISPLAY', ':1'), ('SHLVL', '2'), ('NVM_CD_FLAGS', ''), ('ROS_MASTER_URI', 'http://1_simulation:11311'), ('ROS_HOSTNAME', '1_xterm'), ('LD_LIBRARY_PATH', '/home/user/catkin_ws/devel/lib:/home/simulations/public_sim_ws/devel/lib:/opt/ros/humble/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/usr/local/cuda-10.2/lib64:/home/user/.catkin_ws_python3/src/TensorRT-7.0.0.11/lib:/home/user/catkin_ws/devel/lib:/home/simulations/public_sim_ws/devel/lib:/opt/ros/humble/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/local/cuda-10.2/lib64:/home/user/.catkin_ws_python3/src/TensorRT-7.0.0.11/lib::/usr/lib/x86_64-linux-gnu/gazebo-11/plugins::/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:'), ('ROS_LOCALHOST_ONLY', '0'), ('SLOT_SHELL_START_ID', '0'), ('SLOT_PREFIX', '82bfa193-d83b-434e-849e-da4faa6b1008'), ('LC_ALL', 'C'), ('SOURCE_ROS1_WS', 'True'), ('GAZEBO_MODEL_PATH', '/usr/share/gazebo-11/models:/usr/share/gazebo-11/models:/usr/share/gazebo-9/models:/usr/share/gazebo/models_robox'), ('SLOT_JENKINS_PORT', '25214'), ('SLOT_SYSTEMD', 'False'), ('PATH', '/opt/ros/humble/bin:/opt/ros/humble/bin:/opt/ros/humble/bin:/usr/local/share/shell/.nvm/versions/node/v8.17.0/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/home/user/.cargo/bin:/home/user/.cargo/bin'), ('SELECTED_ROS_DISTRO', 'humble'), ('NVM_BIN', '/usr/local/share/shell/.nvm/versions/node/v8.17.0/bin'), ('NODE_VERSION', 'v8.17.0'), ('DEBIAN_FRONTEND', 'noninteractive'), ('ROS_DISTRO', 'humble'), ('GAZEBO_VERBOSE', '0'), ('OGRE_RESOURCE_PATH', '/usr/lib/x86_64-linux-gnu/OGRE-1.9.0'), ('OLDPWD', '/home/user'), ('SOURCE_ROS2_WS', ''), ('SLOT_ROSBRIDGE_PORT', '20001'), ('_', '/usr/bin/env')]), 'shell': False}
+[0.132762] (-) TimerEvent: {}
+[0.233213] (-) TimerEvent: {}
+[0.333421] (-) TimerEvent: {}
+[0.433652] (-) TimerEvent: {}
+[0.533903] (-) TimerEvent: {}
+[0.634147] (-) TimerEvent: {}
+[0.734404] (-) TimerEvent: {}
+[0.834697] (-) TimerEvent: {}
+[0.935026] (-) TimerEvent: {}
+[1.035743] (-) TimerEvent: {}
+[1.136034] (-) TimerEvent: {}
+[1.236323] (-) TimerEvent: {}
+[1.336603] (-) TimerEvent: {}
+[1.436891] (-) TimerEvent: {}
+[1.537220] (-) TimerEvent: {}
+[1.637495] (-) TimerEvent: {}
+[1.737840] (-) TimerEvent: {}
+[1.838117] (-) TimerEvent: {}
+[1.938418] (-) TimerEvent: {}
+[2.038673] (-) TimerEvent: {}
+[2.138953] (-) TimerEvent: {}
+[2.239278] (-) TimerEvent: {}
+[2.339566] (-) TimerEvent: {}
+[2.439898] (-) TimerEvent: {}
+[2.540178] (-) TimerEvent: {}
+[2.640735] (-) TimerEvent: {}
+[2.740985] (-) TimerEvent: {}
+[2.841251] (-) TimerEvent: {}
+[2.941500] (-) TimerEvent: {}
+[3.041759] (-) TimerEvent: {}
+[3.141993] (-) TimerEvent: {}
+[3.242243] (-) TimerEvent: {}
+[3.342488] (-) TimerEvent: {}
+[3.443232] (-) TimerEvent: {}
+[3.543503] (-) TimerEvent: {}
+[3.643814] (-) TimerEvent: {}
+[3.744115] (-) TimerEvent: {}
+[3.844402] (-) TimerEvent: {}
+[3.944684] (-) TimerEvent: {}
+[4.044960] (-) TimerEvent: {}
+[4.145228] (-) TimerEvent: {}
+[4.245743] (-) TimerEvent: {}
+[4.346019] (-) TimerEvent: {}
+[4.446298] (-) TimerEvent: {}
+[4.546554] (-) TimerEvent: {}
+[4.646810] (-) TimerEvent: {}
+[4.747085] (-) TimerEvent: {}
+[4.847365] (-) TimerEvent: {}
+[4.947647] (-) TimerEvent: {}
+[5.047938] (-) TimerEvent: {}
+[5.148239] (-) TimerEvent: {}
+[5.248540] (-) TimerEvent: {}
+[5.348839] (-) TimerEvent: {}
+[5.449138] (-) TimerEvent: {}
+[5.549445] (-) TimerEvent: {}
+[5.649778] (-) TimerEvent: {}
+[5.750121] (-) TimerEvent: {}
+[5.850748] (-) TimerEvent: {}
+[5.951031] (-) TimerEvent: {}
+[6.051312] (-) TimerEvent: {}
+[6.151597] (-) TimerEvent: {}
+[6.251876] (-) TimerEvent: {}
+[6.352156] (-) TimerEvent: {}
+[6.452428] (-) TimerEvent: {}
+[6.552709] (-) TimerEvent: {}
+[6.652996] (-) TimerEvent: {}
+[6.753283] (-) TimerEvent: {}
+[6.853585] (-) TimerEvent: {}
+[6.953948] (-) TimerEvent: {}
+[7.054259] (-) TimerEvent: {}
+[7.154562] (-) TimerEvent: {}
+[7.254860] (-) TimerEvent: {}
+[7.355167] (-) TimerEvent: {}
+[7.455477] (-) TimerEvent: {}
+[7.555779] (-) TimerEvent: {}
+[7.656081] (-) TimerEvent: {}
+[7.756380] (-) TimerEvent: {}
+[7.856685] (-) TimerEvent: {}
+[7.957052] (-) TimerEvent: {}
+[8.057349] (-) TimerEvent: {}
+[8.143650] (micro_ros_setup) StdoutLine: {'line': b'-- The C compiler identification is GNU 11.4.0\n'}
+[8.157444] (-) TimerEvent: {}
+[8.257716] (-) TimerEvent: {}
+[8.358004] (-) TimerEvent: {}
+[8.458332] (-) TimerEvent: {}
+[8.558635] (-) TimerEvent: {}
+[8.658930] (-) TimerEvent: {}
+[8.759222] (-) TimerEvent: {}
+[8.859517] (-) TimerEvent: {}
+[8.959818] (-) TimerEvent: {}
+[9.060124] (-) TimerEvent: {}
+[9.160449] (-) TimerEvent: {}
+[9.260750] (-) TimerEvent: {}
+[9.361055] (-) TimerEvent: {}
+[9.461354] (-) TimerEvent: {}
+[9.561650] (-) TimerEvent: {}
+[9.661960] (-) TimerEvent: {}
+[9.762271] (-) TimerEvent: {}
+[9.862571] (-) TimerEvent: {}
+[9.963382] (-) TimerEvent: {}
+[10.063663] (-) TimerEvent: {}
+[10.163934] (-) TimerEvent: {}
+[10.264205] (-) TimerEvent: {}
+[10.364486] (-) TimerEvent: {}
+[10.464777] (-) TimerEvent: {}
+[10.565065] (-) TimerEvent: {}
+[10.665800] (-) TimerEvent: {}
+[10.766100] (-) TimerEvent: {}
+[10.866409] (-) TimerEvent: {}
+[10.966710] (-) TimerEvent: {}
+[11.067001] (-) TimerEvent: {}
+[11.167292] (-) TimerEvent: {}
+[11.267588] (-) TimerEvent: {}
+[11.367889] (-) TimerEvent: {}
+[11.468179] (-) TimerEvent: {}
+[11.568453] (-) TimerEvent: {}
+[11.668730] (-) TimerEvent: {}
+[11.769012] (-) TimerEvent: {}
+[11.869298] (-) TimerEvent: {}
+[11.969563] (-) TimerEvent: {}
+[12.069845] (-) TimerEvent: {}
+[12.170138] (-) TimerEvent: {}
+[12.270750] (-) TimerEvent: {}
+[12.371043] (-) TimerEvent: {}
+[12.454165] (micro_ros_setup) StdoutLine: {'line': b'-- The CXX compiler identification is GNU 11.4.0\n'}
+[12.471133] (-) TimerEvent: {}
+[12.474575] (micro_ros_setup) StdoutLine: {'line': b'-- Detecting C compiler ABI info\n'}
+[12.571231] (-) TimerEvent: {}
+[12.671477] (-) TimerEvent: {}
+[12.771737] (-) TimerEvent: {}
+[12.872006] (-) TimerEvent: {}
+[12.937457] (micro_ros_setup) StdoutLine: {'line': b'-- Detecting C compiler ABI info - done\n'}
+[12.944685] (micro_ros_setup) StdoutLine: {'line': b'-- Check for working C compiler: /usr/bin/cc - skipped\n'}
+[12.945973] (micro_ros_setup) StdoutLine: {'line': b'-- Detecting C compile features\n'}
+[12.972091] (-) TimerEvent: {}
+[13.040319] (micro_ros_setup) StdoutLine: {'line': b'-- Detecting C compile features - done\n'}
+[13.045915] (micro_ros_setup) StdoutLine: {'line': b'-- Detecting CXX compiler ABI info\n'}
+[13.072178] (-) TimerEvent: {}
+[13.172406] (-) TimerEvent: {}
+[13.272640] (-) TimerEvent: {}
+[13.373223] (-) TimerEvent: {}
+[13.398086] (micro_ros_setup) StdoutLine: {'line': b'-- Detecting CXX compiler ABI info - done\n'}
+[13.406067] (micro_ros_setup) StdoutLine: {'line': b'-- Check for working CXX compiler: /usr/bin/c++ - skipped\n'}
+[13.406340] (micro_ros_setup) StdoutLine: {'line': b'-- Detecting CXX compile features\n'}
+[13.406801] (micro_ros_setup) StdoutLine: {'line': b'-- Detecting CXX compile features - done\n'}
+[13.425644] (micro_ros_setup) StdoutLine: {'line': b'-- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)\n'}
+[13.473327] (-) TimerEvent: {}
+[13.573593] (-) TimerEvent: {}
+[13.673847] (-) TimerEvent: {}
+[13.774083] (-) TimerEvent: {}
+[13.874340] (-) TimerEvent: {}
+[13.974586] (-) TimerEvent: {}
+[14.074845] (-) TimerEvent: {}
+[14.175128] (-) TimerEvent: {}
+[14.250893] (micro_ros_setup) StdoutLine: {'line': b'-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter \n'}
+[14.275217] (-) TimerEvent: {}
+[14.375479] (-) TimerEvent: {}
+[14.475762] (-) TimerEvent: {}
+[14.576006] (-) TimerEvent: {}
+[14.676262] (-) TimerEvent: {}
+[14.764477] (micro_ros_setup) CommandEnded: {'returncode': -2}
+[14.773149] (micro_ros_setup) JobEnded: {'identifier': 'micro_ros_setup', 'rc': 'SIGINT'}
+[14.776335] (-) TimerEvent: {}
+[14.783584] (-) EventReactorShutdown: {}

@@ -1,0 +1,31 @@
+running egg_info
+creating ../../build/pong_reply_node/pong_reply_node.egg-info
+writing ../../build/pong_reply_node/pong_reply_node.egg-info/PKG-INFO
+writing dependency_links to ../../build/pong_reply_node/pong_reply_node.egg-info/dependency_links.txt
+writing entry points to ../../build/pong_reply_node/pong_reply_node.egg-info/entry_points.txt
+writing requirements to ../../build/pong_reply_node/pong_reply_node.egg-info/requires.txt
+writing top-level names to ../../build/pong_reply_node/pong_reply_node.egg-info/top_level.txt
+writing manifest file '../../build/pong_reply_node/pong_reply_node.egg-info/SOURCES.txt'
+reading manifest file '../../build/pong_reply_node/pong_reply_node.egg-info/SOURCES.txt'
+writing manifest file '../../build/pong_reply_node/pong_reply_node.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/user/ros2_ws/build/pong_reply_node/build/lib/pong_reply_node
+copying pong_reply_node/__init__.py -> /home/user/ros2_ws/build/pong_reply_node/build/lib/pong_reply_node
+copying pong_reply_node/pong.py -> /home/user/ros2_ws/build/pong_reply_node/build/lib/pong_reply_node
+running install
+running install_lib
+creating /home/user/ros2_ws/install/pong_reply_node/lib/python3.10/site-packages/pong_reply_node
+copying /home/user/ros2_ws/build/pong_reply_node/build/lib/pong_reply_node/__init__.py -> /home/user/ros2_ws/install/pong_reply_node/lib/python3.10/site-packages/pong_reply_node
+copying /home/user/ros2_ws/build/pong_reply_node/build/lib/pong_reply_node/pong.py -> /home/user/ros2_ws/install/pong_reply_node/lib/python3.10/site-packages/pong_reply_node
+byte-compiling /home/user/ros2_ws/install/pong_reply_node/lib/python3.10/site-packages/pong_reply_node/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/user/ros2_ws/install/pong_reply_node/lib/python3.10/site-packages/pong_reply_node/pong.py to pong.cpython-310.pyc
+running install_data
+creating /home/user/ros2_ws/install/pong_reply_node/share/ament_index/resource_index/packages
+copying resource/pong_reply_node -> /home/user/ros2_ws/install/pong_reply_node/share/ament_index/resource_index/packages
+copying package.xml -> /home/user/ros2_ws/install/pong_reply_node/share/pong_reply_node
+running install_egg_info
+Copying ../../build/pong_reply_node/pong_reply_node.egg-info to /home/user/ros2_ws/install/pong_reply_node/lib/python3.10/site-packages/pong_reply_node-0.0.0-py3.10.egg-info
+running install_scripts
+Installing pong script to /home/user/ros2_ws/install/pong_reply_node/lib/pong_reply_node
+writing list of installed files to '/home/user/ros2_ws/build/pong_reply_node/install.log'
